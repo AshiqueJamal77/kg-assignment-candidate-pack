@@ -1,0 +1,3502 @@
+[
+ {
+  "rfq_id": "RFQ-0001",
+  "buyer_company_id": "CMP-01910",
+  "created_at": "2026-08-14T07:00:40",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for ibuprofen tablets qty 13,560 kg delivery Alexandria Port (CIF). Only US FDA certified suppliers. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0002",
+  "buyer_company_id": "CMP-03874",
+  "created_at": "2026-01-24T20:48:32",
+  "status": "expired",
+  "text": "Requirement: cotton bed sheets\nQty - 37750 units\nPort - Hamburg\nTerms - CIF\nTarget price USD 9.8 per PCS.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0003",
+  "buyer_company_id": "CMP-01784",
+  "created_at": "2026-07-16T07:27:29",
+  "status": "closed",
+  "text": "We are looking for technical grade urea. Quantity: 23600 tons. Delivery CIF Dubai. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0004",
+  "buyer_company_id": "CMP-01741",
+  "created_at": "2026-07-20T16:34:21",
+  "status": "expired",
+  "text": "Need solid wood dining tables 140 pieces CIF Jeddah. Trial order first, then regular monthly. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0005",
+  "buyer_company_id": "CMP-04534",
+  "created_at": "2025-10-07T08:28:15",
+  "status": "awarded",
+  "text": "We are looking for RBD palm oil. Quantity: 10 x 40ft FCL. Delivery CFR Egypt. Supplier must have FSSC22000 and kosher. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0006",
+  "buyer_company_id": "CMP-03012",
+  "created_at": "2026-02-15T07:55:20",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for ordinary portland cement OPC 53 qty 20,350 MTs delivery Port Klang (CIF). Supplier must have CE. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0007",
+  "buyer_company_id": "CMP-03320",
+  "created_at": "2026-05-18T15:14:36",
+  "status": "closed",
+  "text": "We need two items: 1) packaged black tea 100 g - 17,480 kgs 2) long grain parboiled rice - 140 tons. Both CIF Jebel Ali Port. Prefer India or United Kingdom origin. Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0008",
+  "buyer_company_id": "CMP-04060",
+  "created_at": "2026-05-27T21:11:00",
+  "status": "expired",
+  "text": "Urgent!! sunscreen lotion required, 2770 KG, CIF United Arab Emirates. Shipment within 30 days. Prefer Germany or China origin. Target price USD 11.93 per KG."
+ },
+ {
+  "rfq_id": "RFQ-0009",
+  "buyer_company_id": "CMP-00225",
+  "created_at": "2026-02-09T10:06:00",
+  "status": "expired",
+  "text": "Need Ceylon black tea in retail packs 12,430 kgs CIF Port Klang. Monthly requirement. BRCGS certification required. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0010",
+  "buyer_company_id": "CMP-03761",
+  "created_at": "2026-06-05T06:18:14",
+  "status": "expired",
+  "text": "Need 300 TC cotton pillow covers 27010 pcs CFR London Gateway. Monthly requirement. Only BSCI certified suppliers. Prefer Turkey or Pakistan origin. China origin not acceptable. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0011",
+  "buyer_company_id": "CMP-00950",
+  "created_at": "2026-02-23T05:01:28",
+  "status": "awarded",
+  "text": "Hello, our company imports Ne 24/1 combed cotton hosiery yarn into China. We need 23,140 KG. Monthly requirement. CFR Shanghai. Suppliers with export experience to China preferred."
+ },
+ {
+  "rfq_id": "RFQ-0012",
+  "buyer_company_id": "CMP-00852",
+  "created_at": "2026-03-08T23:25:31",
+  "status": "closed",
+  "text": "Requirement: SS 304 welded tubes\nQty - 110 MTs\nPort - USNYC\nTerms - CIF\nOrigin - Prefer India or Italy origin. No Turkey origin please.\nShipment: Need by June 2026."
+ },
+ {
+  "rfq_id": "RFQ-0013",
+  "buyer_company_id": "CMP-02424",
+  "created_at": "2025-12-06T01:09:23",
+  "status": "closed",
+  "text": "Requirement: radiator parts for cars\nQty - 21340 kg\nPort - Al Jubail\nTerms - CIF\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0014",
+  "buyer_company_id": "CMP-01375",
+  "created_at": "2026-01-26T18:15:46",
+  "status": "open",
+  "text": "Requirement: PVC insulated copper cables\nQty - 10,630 kgs\nPort - Mombasa Port\nTerms - CIF\nOrigin - Prefer Turkey or Vietnam origin.\nTarget price USD 8.74 per KG.\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0015",
+  "buyer_company_id": "CMP-02430",
+  "created_at": "2026-08-07T21:06:42",
+  "status": "open",
+  "text": "Hello, our company imports jute handbags into Italy. We need 7370 pieces. Monthly requirement. CIP Carrara. Suppliers with export experience to Italy preferred."
+ },
+ {
+  "rfq_id": "RFQ-0016",
+  "buyer_company_id": "CMP-02540",
+  "created_at": "2026-08-15T02:02:20",
+  "status": "awarded",
+  "text": "Hello, our company imports robusta green coffee beans into United States. We need 6 x 20ft FCL. Trial order first, then regular monthly. CIF Port of Savannah. Supplier must have FSSC22000 and kosher. Suppliers with export experience to United States preferred."
+ },
+ {
+  "rfq_id": "RFQ-0017",
+  "buyer_company_id": "CMP-02380",
+  "created_at": "2026-10-07T15:15:21",
+  "status": "open",
+  "text": "We are looking for full cream milk powder. Quantity: 65 metric tons. Delivery CIF Port Said. Supplier must have USDA Organic certified. Origin preferred: United States, United Kingdom. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0018",
+  "buyer_company_id": "CMP-00013",
+  "created_at": "2026-06-04T02:17:12",
+  "status": "expired",
+  "text": "Urgent!! semi-vitreous floor tiles required, 2650 sqm, CIP Colombo Port. Prompt shipment. Origin preferred: Turkey, China."
+ },
+ {
+  "rfq_id": "RFQ-0019",
+  "buyer_company_id": "CMP-04111",
+  "created_at": "2026-07-30T05:34:36",
+  "status": "closed",
+  "text": "Hello, our company imports packaged black tea 100 g into Pakistan. We need 3330 kgs. Trial order first, then regular monthly. DAP Karachi Port. Only ISO 22000 certified suppliers. Suppliers with export experience to Pakistan preferred."
+ },
+ {
+  "rfq_id": "RFQ-0020",
+  "buyer_company_id": "CMP-03642",
+  "created_at": "2026-01-11T17:20:32",
+  "status": "closed",
+  "text": "Need unshelled cashew nuts 1460 MT CFR Abu Dhabi Khalifa Port. Trial order first, then regular monthly. HACCP certification required. Origin preferred: Brazil, Kenya. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0021",
+  "buyer_company_id": "CMP-03684",
+  "created_at": "2026-03-09T09:05:48",
+  "status": "closed",
+  "text": "Requirement: raw cashew nuts in shell\nQty - 340 MT\nPort - Jubail Port\nTerms - CIP\nOrigin - Prefer Brazil or Kenya origin."
+ },
+ {
+  "rfq_id": "RFQ-0022",
+  "buyer_company_id": "CMP-01979",
+  "created_at": "2025-11-21T09:42:40",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for HRPO coils qty 1,590 MT delivery Penang (CIF). Origin preferred: India, Turkey. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0023",
+  "buyer_company_id": "CMP-00418",
+  "created_at": "2026-04-06T18:35:32",
+  "status": "open",
+  "text": "Hello, our company imports leather shoes with rubber sole into United Kingdom. We need 6130 pairs. One-time order. CFR United Kingdom. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0024",
+  "buyer_company_id": "CMP-04563",
+  "created_at": "2026-09-10T05:33:52",
+  "status": "closed",
+  "text": "Need stainless steel cookware set 26,730 KG CFR Jebel Ali Port. One-time order. Only ce certified suppliers. Do not offer China origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0025",
+  "buyer_company_id": "CMP-00922",
+  "created_at": "2026-09-10T07:48:56",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for BOP black tea in 50 kg sacks qty 27,120 kgs delivery Sialkot (DAP). Supplier must have BRC Grade A and fda registered. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0026",
+  "buyer_company_id": "CMP-00188",
+  "created_at": "2026-03-15T22:39:20",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for PCR tyres qty 1450 pieces delivery London Gateway (DAP). Only ISO 9001:2015 certified suppliers. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0027",
+  "buyer_company_id": "CMP-02723",
+  "created_at": "2026-09-10T01:55:43",
+  "status": "awarded",
+  "text": "Hello, our company imports halal frozen boneless beef into Malaysia. We need 420 metric tons. One-time order. CIF Pasir Gudang. Prefer Brazil or India origin. Suppliers with export experience to Malaysia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0028",
+  "buyer_company_id": "CMP-01024",
+  "created_at": "2026-05-09T23:55:33",
+  "status": "awarded",
+  "text": "Requirement: wooden furniture\nQty - 700 pcs\nPort - Felixstowe\nTerms - DAP\nOrigin - Prefer Vietnam or India origin.\nTarget price USD 410.22 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0029",
+  "buyer_company_id": "CMP-02094",
+  "created_at": "2025-12-23T21:21:04",
+  "status": "closed",
+  "text": "Hello, our company imports herbal bath soap into United Arab Emirates. We need 13440 kgs. CIF AEJEA. Supplier must have GMP. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0030",
+  "buyer_company_id": "CMP-03401",
+  "created_at": "2025-10-08T01:49:33",
+  "status": "expired",
+  "text": "Need urea 46 fertilizer 29,910 metric tons CIF Nhava Sheva. Trial order first, then regular monthly. Halal certification required. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0031",
+  "buyer_company_id": "CMP-00405",
+  "created_at": "2026-03-20T17:59:39",
+  "status": "open",
+  "text": "Need glazed ceramic floor tiles 400x400 1030 sqm CIF Jebel Ali Port. Quarterly contract. CE certification required. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0032",
+  "buyer_company_id": "CMP-04076",
+  "created_at": "2026-03-14T01:27:37",
+  "status": "expired",
+  "text": "We are looking for raw cane sugar ICUMSA 600-1200. Quantity: 32,600 tons. Delivery CIF Qingdao. Supplier must have ISO 22000. Origin preferred: India, Brazil. Do not offer Turkey origin. Target price USD 486.49 per MT. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0033",
+  "buyer_company_id": "CMP-04694",
+  "created_at": "2026-07-14T07:55:05",
+  "status": "open",
+  "text": "Urgent!! cotton jersey t-shirts required, 58,880 pieces, CFR Da Nang Port. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0034",
+  "buyer_company_id": "CMP-01140",
+  "created_at": "2026-04-26T03:56:08",
+  "status": "awarded",
+  "text": "We are looking for stainless steel welded pipes. Quantity: 35 tons. Delivery CFR Alexandria Port. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0035",
+  "buyer_company_id": "CMP-04731",
+  "created_at": "2026-10-01T18:18:33",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for semi-vitreous floor tiles qty 3310 sqm delivery Colombo (CIF). Supplier must have BIS certified. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0036",
+  "buyer_company_id": "CMP-01912",
+  "created_at": "2025-11-11T04:48:32",
+  "status": "awarded",
+  "text": "Urgent!! pickled HR coil required, 650 tons, CIF AEJEA. Origin preferred: Turkey, India."
+ },
+ {
+  "rfq_id": "RFQ-0037",
+  "buyer_company_id": "CMP-03722",
+  "created_at": "2025-12-06T22:02:54",
+  "status": "closed",
+  "text": "Urgent!! auto spare parts required, 13140 kgs, CFR United Kingdom."
+ },
+ {
+  "rfq_id": "RFQ-0038",
+  "buyer_company_id": "CMP-01901",
+  "created_at": "2026-01-07T10:53:20",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for refurbished laptops qty 6,630 pieces delivery Pretoria (CFR). Prefer China or Vietnam origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0039",
+  "buyer_company_id": "CMP-04584",
+  "created_at": "2026-08-15T03:45:08",
+  "status": "open",
+  "text": "Urgent!! ordinary portland cement OPC 53 required, 8 x 40ft FCL, CIF United Arab Emirates. No China origin please. BIS certification required."
+ },
+ {
+  "rfq_id": "RFQ-0040",
+  "buyer_company_id": "CMP-03112",
+  "created_at": "2026-03-31T19:10:37",
+  "status": "open",
+  "text": "We are looking for SS kitchen utensils. Quantity: 14,920 KG. Delivery CFR LA/Long Beach. Supplier must have BIS and ISO 14001. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0041",
+  "buyer_company_id": "CMP-04326",
+  "created_at": "2025-12-08T12:44:08",
+  "status": "open",
+  "text": "Need glazed ceramic floor tiles 400x400 4540 sqm CIP AEJEA. One-time order. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0042",
+  "buyer_company_id": "CMP-04086",
+  "created_at": "2026-09-13T23:57:04",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for cashew kernels WW320 qty 81,580 kg delivery DEHAM (CFR). Supplier must have Halal and iso 22000. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0043",
+  "buyer_company_id": "CMP-02215",
+  "created_at": "2026-04-10T20:25:55",
+  "status": "open",
+  "text": "Requirement: HRPO coils\nQty - 2,300 MTs\nPort - Napoli\nTerms - CFR\nOrigin - Origin preferred: Turkey, India.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0044",
+  "buyer_company_id": "CMP-01392",
+  "created_at": "2026-01-08T03:28:09",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for refined white sugar ICUMSA 45 qty 1,600 tons delivery Leicester (DAP). USDA Organic certification required. Origin preferred: Egypt, United Arab Emirates. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0045",
+  "buyer_company_id": "CMP-03118",
+  "created_at": "2026-07-26T18:17:04",
+  "status": "awarded",
+  "text": "We are looking for combed cotton yarn for knitting. Quantity: 55430 kgs. Delivery CIF Tianjin. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0046",
+  "buyer_company_id": "CMP-04252",
+  "created_at": "2026-04-28T08:45:47",
+  "status": "open",
+  "text": "Hello, our company imports green coffee beans arabica into United Arab Emirates. We need 240 tons. Monthly requirement. CFR AEJEA. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0047",
+  "buyer_company_id": "CMP-03876",
+  "created_at": "2026-06-05T19:08:13",
+  "status": "closed",
+  "text": "Requirement: palm olein CP10\nQty - 1200 MT\nPort - Dammam\nTerms - DAP\nCerts - ISO 22000 certification required.\nOrigin - Origin preferred: Malaysia, Indonesia.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0048",
+  "buyer_company_id": "CMP-02888",
+  "created_at": "2026-08-07T17:27:15",
+  "status": "expired",
+  "text": "Hello, our company imports azithromycin tablets into Kenya. We need 1010 kg. One-time order. CIF Mombasa. US-FDA certification required. Suppliers with export experience to Kenya preferred."
+ },
+ {
+  "rfq_id": "RFQ-0049",
+  "buyer_company_id": "CMP-03051",
+  "created_at": "2025-12-11T03:44:21",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for crude palm oil FFA 5% max qty 3990 metric tons delivery Khalifa Port (CFR). Prefer Malaysia or Indonesia origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0050",
+  "buyer_company_id": "CMP-01089",
+  "created_at": "2026-05-22T20:50:29",
+  "status": "open",
+  "text": "Need ERW steel pipes 1,060 metric tons CIP Jebel Ali Port. Monthly requirement. Supplier must have BIS certified. Origin preferred: China, Vietnam. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0051",
+  "buyer_company_id": "CMP-01137",
+  "created_at": "2026-04-11T10:49:45",
+  "status": "closed",
+  "text": "We are looking for frozen northern prawns. Quantity: 17960 kg. Delivery CFR GBFXT. Only BRC certified suppliers. Origin preferred: China, Vietnam. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0052",
+  "buyer_company_id": "CMP-01501",
+  "created_at": "2026-09-02T21:56:58",
+  "status": "closed",
+  "text": "Requirement: grey portland cement\nQty - 9,140 metric tons\nPort - BDCGP\nTerms - DAP\nCerts - ISO 14001 certification required.\nOrigin - Prefer Egypt or Turkey origin. United Arab Emirates origin not acceptable.\nShipment: Need by October 2026."
+ },
+ {
+  "rfq_id": "RFQ-0053",
+  "buyer_company_id": "CMP-03439",
+  "created_at": "2026-04-30T02:23:33",
+  "status": "awarded",
+  "text": "Requirement: refined white sugar ICUMSA 45\nQty - 1,080 MT\nPort - Durban\nTerms - DAP\nCerts - halal certification required.\nShipment: Need by July 2026."
+ },
+ {
+  "rfq_id": "RFQ-0054",
+  "buyer_company_id": "CMP-02824",
+  "created_at": "2026-08-17T15:16:55",
+  "status": "awarded",
+  "text": "Need cashew kernels W320 42340 kg CIF Khalifa Port. One-time order. USDA Organic and Halal certification required. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0055",
+  "buyer_company_id": "CMP-03322",
+  "created_at": "2026-01-12T14:02:42",
+  "status": "expired",
+  "text": "Requirement: Ne 24/1 combed cotton hosiery yarn\nQty - 73060 kg\nPort - Canton\nTerms - CIF\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0056",
+  "buyer_company_id": "CMP-03653",
+  "created_at": "2026-04-18T18:55:32",
+  "status": "expired",
+  "text": "Hello, our company imports split air conditioners into United States. We need 2010 pcs. DAP USLAX. iso9001 and RoHS certification required. Suppliers with export experience to United States preferred."
+ },
+ {
+  "rfq_id": "RFQ-0057",
+  "buyer_company_id": "CMP-03308",
+  "created_at": "2025-10-27T01:57:11",
+  "status": "expired",
+  "text": "Need terry towel sets 17500 kg CIF KEMBA. Quarterly contract. WRAP and GOTS certification required. Prefer India or Pakistan origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0058",
+  "buyer_company_id": "CMP-03400",
+  "created_at": "2025-11-10T06:23:05",
+  "status": "closed",
+  "text": "Urgent!! palm olein CP10 required, 8 x 20ft FCL, CFR Pakistan. Prompt shipment. Target price USD 1079.6 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0059",
+  "buyer_company_id": "CMP-00573",
+  "created_at": "2026-05-16T01:48:12",
+  "status": "open",
+  "text": "Requirement: refined cane sugar\nQty - 10 x 20ft FCL\nPort - Yantian\nTerms - DAP\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0060",
+  "buyer_company_id": "CMP-04668",
+  "created_at": "2026-09-23T15:22:15",
+  "status": "open",
+  "text": "We need two items: 1) HR coils SAE1006 - 4370 MTs 2) stainless steel cookware set - 11,360 KG. Both CIF Jebel Ali. Origin preferred: Turkey, India."
+ },
+ {
+  "rfq_id": "RFQ-0061",
+  "buyer_company_id": "CMP-04487",
+  "created_at": "2025-12-03T11:18:53",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for ADC12 aluminium ingots qty 250 MT delivery Los Angeles (DAP). Supplier must have ISO-9001 certified and ISO 14001:2015. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0062",
+  "buyer_company_id": "CMP-04103",
+  "created_at": "2026-05-08T21:03:12",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for sona masoori rice qty 1080 MT delivery Manchester (CIP). Supplier must have ISO 22000 and FSSC 22000. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0063",
+  "buyer_company_id": "CMP-01964",
+  "created_at": "2026-05-26T17:40:40",
+  "status": "expired",
+  "text": "Need clarithromycin tablets 4990 kg CFR Colombo. One-time order. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0064",
+  "buyer_company_id": "CMP-03508",
+  "created_at": "2026-08-10T04:21:07",
+  "status": "expired",
+  "text": "Hello, our company imports whole black pepper 500 GL ASTA into United Kingdom. We need 19 tons. Monthly requirement. DAP Liverpool. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0065",
+  "buyer_company_id": "CMP-02578",
+  "created_at": "2026-04-22T23:29:43",
+  "status": "awarded",
+  "text": "We need two items: 1) women's cotton palazzo pants - 9230 pcs 2) men's denim jeans - 80,310 pieces. Both DAP Sharjah Port. No China origin please. Target price USD 7.1 per PCS. Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0066",
+  "buyer_company_id": "CMP-02092",
+  "created_at": "2025-10-24T18:08:53",
+  "status": "closed",
+  "text": "Requirement: genuine leather tote bags\nQty - 3300 pieces\nPort - Livorno\nTerms - DAP\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0067",
+  "buyer_company_id": "CMP-01186",
+  "created_at": "2026-08-06T06:48:42",
+  "status": "awarded",
+  "text": "Hello, our company imports semi-vitreous floor tiles into Malaysia. We need 19150 square meters. Monthly requirement. CIF Penang. Suppliers with export experience to Malaysia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0068",
+  "buyer_company_id": "CMP-00784",
+  "created_at": "2026-06-18T17:10:48",
+  "status": "open",
+  "text": "We are looking for HR coils SAE1006. Quantity: 4,700 MTs. Delivery CFR Italy. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0069",
+  "buyer_company_id": "CMP-03808",
+  "created_at": "2026-04-04T19:52:46",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for SS 316L welded pipes qty 92 metric tons delivery United Arab Emirates (CIF). iso 14001 and bis certification required. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0070",
+  "buyer_company_id": "CMP-04950",
+  "created_at": "2025-10-26T21:43:44",
+  "status": "open",
+  "text": "We are looking for SS 316L welded pipes. Quantity: 83 MT. Delivery CIF Southampton. No Italy origin please. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0071",
+  "buyer_company_id": "CMP-00137",
+  "created_at": "2026-01-07T19:41:43",
+  "status": "open",
+  "text": "We are looking for low density polyethylene. Quantity: 360 MT. Delivery CIF Jebel Ali Port. GMP certification required. Target price USD 1239.23 per MT. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0072",
+  "buyer_company_id": "CMP-00291",
+  "created_at": "2026-01-05T09:01:20",
+  "status": "closed",
+  "text": "Requirement: power inverters\nQty - 6350 pieces\nPort - Long Beach\nTerms - CIF\nCerts - Only CE certified suppliers.\nOrigin - Prefer Germany or Vietnam origin. No India origin please.\nTarget price USD 496.76 per PCS.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0073",
+  "buyer_company_id": "CMP-02399",
+  "created_at": "2026-08-07T06:07:28",
+  "status": "awarded",
+  "text": "Urgent!! BOP black tea in 50 kg sacks required, 18,630 kg, CIF Pasir Gudang. Prompt shipment. No Pakistan origin please."
+ },
+ {
+  "rfq_id": "RFQ-0074",
+  "buyer_company_id": "CMP-03567",
+  "created_at": "2025-10-13T01:58:18",
+  "status": "expired",
+  "text": "We are looking for frozen headless shell-on vannamei. Quantity: 13450 KG. Delivery CFR La Spezia. Target price USD 9.32 per KG. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0075",
+  "buyer_company_id": "CMP-03227",
+  "created_at": "2026-01-29T22:56:33",
+  "status": "closed",
+  "text": "Urgent!! black tea PF1 grade bulk required, 23470 KG, CIF PKKHI. Prefer Sri Lanka or India origin. Kosher and BRC certification required."
+ },
+ {
+  "rfq_id": "RFQ-0076",
+  "buyer_company_id": "CMP-01880",
+  "created_at": "2026-06-05T15:36:56",
+  "status": "closed",
+  "text": "Hello, our company imports 5 ply corrugated boxes into Sri Lanka. We need 21880 units. CFR LKCMB. iso9001 and FDA food grade certification required. Prefer India or China origin. Suppliers with export experience to Sri Lanka preferred."
+ },
+ {
+  "rfq_id": "RFQ-0077",
+  "buyer_company_id": "CMP-01992",
+  "created_at": "2026-09-01T04:20:53",
+  "status": "closed",
+  "text": "Requirement: HRC below 3mm thickness\nQty - 2,020 tons\nPort - Haiphong\nTerms - CIF\nCerts - ISO 14001 certification required.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0078",
+  "buyer_company_id": "CMP-00215",
+  "created_at": "2026-02-25T00:31:12",
+  "status": "awarded",
+  "text": "Need black pepper 550 GL 99 MTs CIF GBFXT. Monthly requirement. Prefer Vietnam or Brazil origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0079",
+  "buyer_company_id": "CMP-01820",
+  "created_at": "2026-08-21T09:10:05",
+  "status": "expired",
+  "text": "Need ladies cotton capri pants 11,670 pieces CIF Atlanta. Trial order first, then regular monthly. Prefer India or Pakistan origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0080",
+  "buyer_company_id": "CMP-01351",
+  "created_at": "2026-05-22T10:26:44",
+  "status": "closed",
+  "text": "We are looking for TBR tyres. Quantity: 1,480 pcs. Delivery CIF Jeddah. Supplier must have IATF 16949. Target price USD 277.0 per PCS. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0081",
+  "buyer_company_id": "CMP-02941",
+  "created_at": "2026-05-04T15:45:22",
+  "status": "awarded",
+  "text": "Hello, our company imports orthodox black tea in bulk into United Arab Emirates. We need 39250 kg. Quarterly contract. CIF Dubai (Jebel Ali). No Turkey origin please. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0082",
+  "buyer_company_id": "CMP-01971",
+  "created_at": "2025-11-20T21:16:19",
+  "status": "closed",
+  "text": "We are looking for robusta screen 18 green coffee. Quantity: 150 MTs. Delivery CIF Houston. Only iso 22000 certified suppliers. Prefer Vietnam or Indonesia origin. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0083",
+  "buyer_company_id": "CMP-04899",
+  "created_at": "2025-10-23T01:40:11",
+  "status": "expired",
+  "text": "Urgent!! turmeric powder 3% curcumin required, 82 metric tons, CIF Dubai (Jebel Ali). Need shipment in 4-6 weeks. No Indonesia origin please. Only Halal and FSSC22000 certified suppliers. Target price USD 1895.12 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0084",
+  "buyer_company_id": "CMP-03394",
+  "created_at": "2026-07-30T02:01:13",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for masoor dal qty 10 x 40ft FCL delivery Karachi Port (CIF). Halal certification required. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0085",
+  "buyer_company_id": "CMP-03621",
+  "created_at": "2026-09-06T12:19:28",
+  "status": "open",
+  "text": "We need two items: 1) raw white carded cotton yarn - 46650 kgs 2) 100% combed ring spun cotton yarn - 121190 kg. Both DAP Xiamen. Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0086",
+  "buyer_company_id": "CMP-03653",
+  "created_at": "2026-09-07T01:49:14",
+  "status": "open",
+  "text": "Urgent!! split air conditioners required, 940 pieces, CIF Los Angeles. Need shipment in 4-6 weeks. Prefer Turkey or Malaysia origin. Pakistan origin not acceptable. Supplier must have UL."
+ },
+ {
+  "rfq_id": "RFQ-0087",
+  "buyer_company_id": "CMP-00676",
+  "created_at": "2026-06-05T03:05:56",
+  "status": "open",
+  "text": "We are looking for black pepper whole. Quantity: 190 tons. Delivery CIF Chittagong. Prefer Brazil or Vietnam origin. Target price USD 4381.76 per MT. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0088",
+  "buyer_company_id": "CMP-04574",
+  "created_at": "2026-03-27T16:13:29",
+  "status": "closed",
+  "text": "Urgent!! PCR tyres required, 3,250 units, CFR Manchester. Prompt shipment. Target price USD 72.79 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0089",
+  "buyer_company_id": "CMP-04765",
+  "created_at": "2026-01-14T03:03:35",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for business laptops 14 inch qty 2,380 pieces delivery Jebel Ali (CFR). Origin preferred: Malaysia, China. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0090",
+  "buyer_company_id": "CMP-03047",
+  "created_at": "2026-05-15T21:06:46",
+  "status": "closed",
+  "text": "Urgent!! hot rolled coil 1.8mm required, 1360 metric tons, DAP Saigon Port. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0091",
+  "buyer_company_id": "CMP-00987",
+  "created_at": "2025-11-21T07:27:59",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for toilet soap bars qty 10300 KG delivery Jebel Ali (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0092",
+  "buyer_company_id": "CMP-01611",
+  "created_at": "2026-07-23T12:13:37",
+  "status": "open",
+  "text": "Requirement: notebook computers\nQty - 1290 units\nPort - Abu Dhabi\nTerms - CFR\nShipment: Need by October 2026."
+ },
+ {
+  "rfq_id": "RFQ-0093",
+  "buyer_company_id": "CMP-04341",
+  "created_at": "2026-06-13T10:10:38",
+  "status": "closed",
+  "text": "Requirement: polyester dri-fit t-shirts\nQty - 107130 pcs\nPort - Mongla Port\nTerms - CIF\nCerts - Supplier must have WRAP.\nTarget price USD 2.91 per PCS.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0094",
+  "buyer_company_id": "CMP-00181",
+  "created_at": "2026-09-21T01:44:26",
+  "status": "open",
+  "text": "Hello, our company imports LT distribution panels into United Arab Emirates. We need 230 units. One-time order. CIF Abu Dhabi Khalifa Port. Supplier must have CE certified. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0095",
+  "buyer_company_id": "CMP-00792",
+  "created_at": "2026-04-06T15:48:31",
+  "status": "awarded",
+  "text": "Hello, our company imports PCR tyres into United Arab Emirates. We need 3240 units. Quarterly contract. CIF Abu Dhabi Khalifa Port. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0096",
+  "buyer_company_id": "CMP-03649",
+  "created_at": "2026-05-16T01:55:19",
+  "status": "open",
+  "text": "Need split red lentils 190 tons CIP Houston. One-time order. Supplier must have fda registered and halal. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0097",
+  "buyer_company_id": "CMP-04774",
+  "created_at": "2026-08-15T00:22:06",
+  "status": "closed",
+  "text": "Need espresso roasted coffee beans 6,880 KG CIF Jeddah. Trial order first, then regular monthly. Prefer Germany or Italy origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0098",
+  "buyer_company_id": "CMP-02282",
+  "created_at": "2025-11-19T17:43:59",
+  "status": "closed",
+  "text": "Requirement: men's leather casual shoes TPR sole\nQty - 17100 prs\nPort - Long Beach\nTerms - CIF\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0099",
+  "buyer_company_id": "CMP-02215",
+  "created_at": "2026-09-12T07:33:50",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for A356 aluminium alloy ingots qty 370 MTs delivery Verona (CIF). Only api 5l certified suppliers. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0100",
+  "buyer_company_id": "CMP-04677",
+  "created_at": "2026-08-21T04:03:41",
+  "status": "expired",
+  "text": "Requirement: bus tyres 12R22.5\nQty - 520 units\nPort - Jubail\nTerms - CIF\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0101",
+  "buyer_company_id": "CMP-03808",
+  "created_at": "2025-10-20T09:17:23",
+  "status": "closed",
+  "text": "Hello, our company imports pickled HR coil into United Arab Emirates. We need 2570 MT. Trial order first, then regular monthly. DAP Abu Dhabi Khalifa Port. iso 14001 certification required. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0102",
+  "buyer_company_id": "CMP-02910",
+  "created_at": "2026-09-08T21:01:11",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for corrugated cartons qty 204050 pcs delivery NYC (CFR). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0103",
+  "buyer_company_id": "CMP-00304",
+  "created_at": "2026-02-07T20:55:47",
+  "status": "awarded",
+  "text": "Requirement: GI pipes\nQty - 2 x 40ft FCL\nPort - Port Elizabeth\nTerms - CFR\nOrigin - Origin preferred: Vietnam, India.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0104",
+  "buyer_company_id": "CMP-00068",
+  "created_at": "2026-09-08T16:07:09",
+  "status": "closed",
+  "text": "We are looking for PET chips IV 0.80. Quantity: 7 x 40ft FCL. Delivery CIF Cape Town Port. reach and Halal certification required. Origin preferred: Malaysia, India. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0105",
+  "buyer_company_id": "CMP-02204",
+  "created_at": "2026-03-26T18:49:23",
+  "status": "awarded",
+  "text": "We need two items: 1) prilled urea - 23,500 metric tons 2) beauty soap 100g - 22,160 kg. Both CFR Atlanta. Supplier must have REACH certified. Target price USD 373.78 per MT. Need by May 2026."
+ },
+ {
+  "rfq_id": "RFQ-0106",
+  "buyer_company_id": "CMP-04480",
+  "created_at": "2026-10-03T08:03:12",
+  "status": "open",
+  "text": "Need inverter split air conditioner 1.5 ton 880 pcs DAP Jebel Ali Port. Quarterly contract. Do not offer China origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0107",
+  "buyer_company_id": "CMP-04608",
+  "created_at": "2026-06-29T15:56:34",
+  "status": "expired",
+  "text": "We are looking for raw cane sugar ICUMSA 600-1200. Quantity: 16,780 MT. Delivery CIF Egypt. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0108",
+  "buyer_company_id": "CMP-00540",
+  "created_at": "2026-09-10T01:26:39",
+  "status": "awarded",
+  "text": "We need two items: 1) leather shoes with rubber sole - 2,400 pairs 2) acacia wood coffee tables - 1,980 pcs. Both CIF Jeddah Islamic Port. Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0109",
+  "buyer_company_id": "CMP-00057",
+  "created_at": "2025-10-28T23:46:48",
+  "status": "expired",
+  "text": "Hello, our company imports 1121 golden sella basmati rice into Indonesia. We need 8 x 40ft FCL. CFR Medan. Suppliers with export experience to Indonesia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0110",
+  "buyer_company_id": "CMP-00184",
+  "created_at": "2025-10-09T19:49:55",
+  "status": "awarded",
+  "text": "Need frozen PUD shrimp 21630 kgs CFR Savannah. One-time order. Supplier must have Halal certified. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0111",
+  "buyer_company_id": "CMP-03867",
+  "created_at": "2026-05-16T13:31:02",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for frozen boneless buffalo meat qty 160 MTs delivery Tanjung Pelepas (DAP). Only USDA Organic certified suppliers. No India origin please. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0112",
+  "buyer_company_id": "CMP-00974",
+  "created_at": "2026-03-25T20:00:48",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for HRC below 3mm thickness qty 5 x 40ft FCL delivery Durban (CFR). ISO 14001 certification required. Prefer Vietnam or India origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0113",
+  "buyer_company_id": "CMP-04103",
+  "created_at": "2026-08-31T20:55:56",
+  "status": "awarded",
+  "text": "Requirement: roasted coffee beans\nQty - 6040 KG\nPort - Manchester\nTerms - CIF\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0114",
+  "buyer_company_id": "CMP-00588",
+  "created_at": "2026-07-14T20:09:28",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for polyethylene terephthalate bottle grade resin qty 390 tons delivery Cape Town (CIF). Only iso 14001 certified suppliers. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0115",
+  "buyer_company_id": "CMP-01220",
+  "created_at": "2025-11-25T07:02:41",
+  "status": "open",
+  "text": "Urgent!! wall mounted split AC required, 570 units, CFR Khalid Port. Need by February 2026. Target price USD 424.58 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0116",
+  "buyer_company_id": "CMP-04621",
+  "created_at": "2025-12-17T06:42:22",
+  "status": "expired",
+  "text": "Urgent!! black pepper whole required, 230 MT, DAP Bremerhaven Port. Shipment within 30 days. Only ISO 22000 certified suppliers. Target price USD 4143.59 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0117",
+  "buyer_company_id": "CMP-02238",
+  "created_at": "2026-09-17T21:37:27",
+  "status": "open",
+  "text": "Requirement: UPS systems\nQty - 730 pcs\nPort - Pretoria\nTerms - CFR\nCerts - Supplier must have RoHS certified.\nOrigin - Prefer Vietnam or China origin.\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0118",
+  "buyer_company_id": "CMP-02445",
+  "created_at": "2025-12-13T15:18:53",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for red lentils whole qty 550 tons delivery INNSA (CFR). Origin preferred: Turkey, United States. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0119",
+  "buyer_company_id": "CMP-04876",
+  "created_at": "2026-08-01T04:29:37",
+  "status": "closed",
+  "text": "Urgent!! monoblock centrifugal pumps required, 1,390 pieces, CFR Mongla. Prompt shipment. BIS certification required. Target price USD 1328.33 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0120",
+  "buyer_company_id": "CMP-03184",
+  "created_at": "2026-06-27T14:16:13",
+  "status": "open",
+  "text": "We are looking for flexible copper wires. Quantity: 24,270 kgs. Delivery CIF Port Elizabeth. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0121",
+  "buyer_company_id": "CMP-03658",
+  "created_at": "2026-03-30T14:18:11",
+  "status": "open",
+  "text": "Need vitrified tiles 600x600 5400 square meters CFR AEJEA. Monthly requirement. Prefer Turkey or China origin. Do not offer Pakistan origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0122",
+  "buyer_company_id": "CMP-03895",
+  "created_at": "2026-06-22T14:43:21",
+  "status": "awarded",
+  "text": "Urgent!! CTC black tea bulk required, 11,690 KG, CIF Dubai. Prefer Sri Lanka or India origin."
+ },
+ {
+  "rfq_id": "RFQ-0123",
+  "buyer_company_id": "CMP-04979",
+  "created_at": "2026-02-01T08:30:14",
+  "status": "open",
+  "text": "Requirement: window air conditioners\nQty - 890 pieces\nPort - PKKHI\nTerms - CIF\nOrigin - Prefer Malaysia or Turkey origin.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0124",
+  "buyer_company_id": "CMP-02764",
+  "created_at": "2026-08-31T04:30:31",
+  "status": "expired",
+  "text": "We need two items: 1) hot rolled pickled and oiled coils 2.5mm - 4840 MT 2) SS 316L welded pipes - 84 MT. Both CIF SAJED. Supplier must have BIS. Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0125",
+  "buyer_company_id": "CMP-03823",
+  "created_at": "2026-01-29T20:43:40",
+  "status": "expired",
+  "text": "Need PET resin bottle grade 12 x 40ft FCL CIF United Kingdom. Trial order first, then regular monthly. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0126",
+  "buyer_company_id": "CMP-00994",
+  "created_at": "2026-07-04T22:31:55",
+  "status": "awarded",
+  "text": "Need refined cane sugar 1,300 MTs CIP Saudi Arabia. Origin preferred: Egypt, United Arab Emirates. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0127",
+  "buyer_company_id": "CMP-04057",
+  "created_at": "2026-06-28T00:24:46",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for refined palm oil qty 12 x 20ft FCL delivery Sialkot (CIP). No China origin please. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0128",
+  "buyer_company_id": "CMP-03976",
+  "created_at": "2025-12-06T20:48:50",
+  "status": "expired",
+  "text": "Urgent!! polyethylene terephthalate bottle grade resin required, 280 metric tons, CIF Newark. Need by January 2026."
+ },
+ {
+  "rfq_id": "RFQ-0129",
+  "buyer_company_id": "CMP-00326",
+  "created_at": "2026-05-17T21:44:36",
+  "status": "expired",
+  "text": "Need plastic toys 25,690 pieces DAP Dammam. One-time order. Only EN71 and ISO 9001:2015 certified suppliers. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0130",
+  "buyer_company_id": "CMP-04989",
+  "created_at": "2026-09-20T12:08:14",
+  "status": "open",
+  "text": "We are looking for men's cotton crew neck t-shirts. Quantity: 46680 units. Delivery CIF SAJED. Origin preferred: Pakistan, China. Target price USD 4.93 per PCS. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0131",
+  "buyer_company_id": "CMP-02189",
+  "created_at": "2026-09-14T19:01:46",
+  "status": "open",
+  "text": "We are looking for ceramic floor tiles. Quantity: 7,280 square meters. Delivery CFR Shanghai Port. Only CE and BIS certified suppliers. Target price USD 3.5 per SQM. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0132",
+  "buyer_company_id": "CMP-00804",
+  "created_at": "2026-02-19T00:08:56",
+  "status": "open",
+  "text": "Urgent!! cashew kernels WW320 required, 87,540 kg, CIF GBFXT. Shipment within 30 days. Target price USD 6.14 per KG."
+ },
+ {
+  "rfq_id": "RFQ-0133",
+  "buyer_company_id": "CMP-00333",
+  "created_at": "2025-12-11T04:18:32",
+  "status": "open",
+  "text": "We are looking for truck tyres. Quantity: 980 pieces. Delivery DAP East Port Said. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0134",
+  "buyer_company_id": "CMP-01523",
+  "created_at": "2026-02-26T11:43:57",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for black pepper whole qty 5 x 40ft FCL delivery Jebel Ali (CIF). Supplier must have usda organic. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0135",
+  "buyer_company_id": "CMP-00502",
+  "created_at": "2026-05-17T06:58:06",
+  "status": "closed",
+  "text": "Urgent!! LDPE zip lock bags required, 21,880 kgs, DAP Dammam Port. Shipment within 30 days. Supplier must have fsc and ISO 9001:2015."
+ },
+ {
+  "rfq_id": "RFQ-0136",
+  "buyer_company_id": "CMP-00676",
+  "created_at": "2026-07-16T15:30:42",
+  "status": "expired",
+  "text": "Urgent!! white pepper whole required, 81 metric tons, DAP Dhaka. Prompt shipment. Do not offer Indonesia origin. Target price USD 4218.01 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0137",
+  "buyer_company_id": "CMP-03104",
+  "created_at": "2026-06-13T12:26:28",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for marble slabs cut to size qty 9270 square meters delivery Jebel Ali Port (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0138",
+  "buyer_company_id": "CMP-02336",
+  "created_at": "2026-07-14T14:11:45",
+  "status": "expired",
+  "text": "Hello, our company imports canvas tote bags into Germany. We need 11660 pieces. Trial order first, then regular monthly. CIF DEHAM. Only bsci certified suppliers. Suppliers with export experience to Germany preferred."
+ },
+ {
+  "rfq_id": "RFQ-0139",
+  "buyer_company_id": "CMP-04112",
+  "created_at": "2026-10-03T01:56:19",
+  "status": "open",
+  "text": "Need polyethylene terephthalate bottle grade resin 830 metric tons DAP Khalifa Port. Quarterly contract. ISO 14001 and Halal certification required. Do not offer Indonesia origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0140",
+  "buyer_company_id": "CMP-04730",
+  "created_at": "2026-01-09T18:22:25",
+  "status": "closed",
+  "text": "We are looking for frozen vannamei shrimp. Quantity: 23540 kgs. Delivery CIF AEJEA. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0141",
+  "buyer_company_id": "CMP-04612",
+  "created_at": "2025-10-06T11:34:25",
+  "status": "awarded",
+  "text": "Hello, our company imports SS 304 welded tubes into United States. We need 6 x 20ft FCL. Trial order first, then regular monthly. CIF Newark. Do not offer Pakistan origin. Suppliers with export experience to United States preferred."
+ },
+ {
+  "rfq_id": "RFQ-0142",
+  "buyer_company_id": "CMP-00256",
+  "created_at": "2026-06-02T09:29:10",
+  "status": "awarded",
+  "text": "Hello, our company imports IQF peeled deveined shrimp into Italy. We need 39,410 kg. One-time order. CIF Italy. BRC Grade A certification required. Prefer Vietnam or India origin. Suppliers with export experience to Italy preferred."
+ },
+ {
+  "rfq_id": "RFQ-0143",
+  "buyer_company_id": "CMP-01979",
+  "created_at": "2026-09-09T07:05:10",
+  "status": "open",
+  "text": "Need HRPO coils 8 x 20ft FCL CIF Pasir Gudang. Monthly requirement. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0144",
+  "buyer_company_id": "CMP-01808",
+  "created_at": "2026-03-02T11:42:39",
+  "status": "expired",
+  "text": "Requirement: matte liquid lipstick\nQty - 11,200 units\nPort - Jubail\nTerms - CIP\nCerts - iso 14001 certification required.\nShipment: Need by May 2026."
+ },
+ {
+  "rfq_id": "RFQ-0145",
+  "buyer_company_id": "CMP-02215",
+  "created_at": "2026-09-05T16:00:41",
+  "status": "awarded",
+  "text": "Requirement: hot rolled steel coils 2mm\nQty - 2,520 tons\nPort - Verona\nTerms - CFR\nCerts - ISO-9001 certification required.\nTarget price USD 524.83 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0146",
+  "buyer_company_id": "CMP-01567",
+  "created_at": "2026-07-04T09:05:06",
+  "status": "closed",
+  "text": "Hello, our company imports 300 TC cotton pillow covers into United States. We need 31,990 pcs. Quarterly contract. CFR United States. Origin preferred: Pakistan, India. Do not offer Turkey origin. Suppliers with export experience to United States preferred."
+ },
+ {
+  "rfq_id": "RFQ-0147",
+  "buyer_company_id": "CMP-00382",
+  "created_at": "2025-11-23T20:55:57",
+  "status": "open",
+  "text": "Urgent!! crude palm oil required, 13,220 MTs, CIF Jeddah. Need by December 2025. Target price USD 896.64 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0148",
+  "buyer_company_id": "CMP-04922",
+  "created_at": "2025-10-17T00:38:20",
+  "status": "expired",
+  "text": "We are looking for ADC12 aluminium ingots. Quantity: 310 MTs. Delivery CIF Manchester. Supplier must have API 5L. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0149",
+  "buyer_company_id": "CMP-00009",
+  "created_at": "2026-04-02T18:56:15",
+  "status": "closed",
+  "text": "We are looking for Ne 30/1 carded ring spun cotton yarn. Quantity: 51,470 KG. Delivery CFR Narayanganj. Only ISO 9001 certified suppliers. Origin preferred: Vietnam, Pakistan. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0150",
+  "buyer_company_id": "CMP-00019",
+  "created_at": "2026-05-16T12:50:22",
+  "status": "open",
+  "text": "Need ERW black pipes 3 x 40ft FCL CIF Port of Durban. Monthly requirement. Origin preferred: China, Turkey. India origin not acceptable. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0151",
+  "buyer_company_id": "CMP-02786",
+  "created_at": "2025-11-07T00:13:40",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for ceramic floor tiles qty 8,870 sqm delivery Savannah (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0152",
+  "buyer_company_id": "CMP-04765",
+  "created_at": "2026-02-12T18:32:38",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for window air conditioners qty 8,210 pcs delivery Jebel Ali (CIF). ISO 9001:2015 and ul certification required. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0153",
+  "buyer_company_id": "CMP-00852",
+  "created_at": "2026-08-24T09:00:42",
+  "status": "open",
+  "text": "Need stainless steel welded pipes 11 x 40ft FCL DAP Miami. One-time order. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0154",
+  "buyer_company_id": "CMP-02947",
+  "created_at": "2026-02-04T00:47:54",
+  "status": "expired",
+  "text": "Urgent!! black tea PF1 grade bulk required, 48520 KG, CFR Surat. Need by March 2026. Supplier must have fda registered. Target price USD 2.88 per KG."
+ },
+ {
+  "rfq_id": "RFQ-0155",
+  "buyer_company_id": "CMP-03707",
+  "created_at": "2026-09-21T22:32:53",
+  "status": "open",
+  "text": "Urgent!! notebook computers required, 1,940 units, CIF Saudi Arabia. Origin preferred: Malaysia, Vietnam. Target price USD 651.74 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0156",
+  "buyer_company_id": "CMP-03757",
+  "created_at": "2026-01-10T21:33:03",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for cashew nuts W240 qty 127,360 KG delivery Saudi Arabia (CIF). Only USDA Organic certified suppliers. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0157",
+  "buyer_company_id": "CMP-00081",
+  "created_at": "2026-09-12T04:23:19",
+  "status": "awarded",
+  "text": "We are looking for stainless steel dinner plates. Quantity: 15,120 kg. Delivery CIF Durban. China origin not acceptable. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0158",
+  "buyer_company_id": "CMP-00382",
+  "created_at": "2026-02-19T15:06:08",
+  "status": "awarded",
+  "text": "We are looking for CTC black tea bulk. Quantity: 14360 kgs. Delivery CIF Jeddah. Origin preferred: Kenya, India. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0159",
+  "buyer_company_id": "CMP-03165",
+  "created_at": "2026-06-09T20:20:23",
+  "status": "open",
+  "text": "Urgent!! frozen headless shell-on vannamei required, 21280 kg, CIF BDCGP. Prompt shipment. Origin preferred: Indonesia, India. Vietnam origin not acceptable. Only BRC certified suppliers."
+ },
+ {
+  "rfq_id": "RFQ-0160",
+  "buyer_company_id": "CMP-04941",
+  "created_at": "2026-09-21T14:45:10",
+  "status": "open",
+  "text": "Requirement: HR coils SAE1006\nQty - 12,560 metric tons\nPort - East Port Said\nTerms - CIP\nTarget price USD 565.37 per MT.\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0161",
+  "buyer_company_id": "CMP-01612",
+  "created_at": "2026-09-30T14:51:15",
+  "status": "open",
+  "text": "We are looking for frozen vannamei shrimp. Quantity: 18,980 KG. Delivery CFR USNYC. USDA Organic certification required. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0162",
+  "buyer_company_id": "CMP-00366",
+  "created_at": "2026-02-03T22:13:32",
+  "status": "expired",
+  "text": "Urgent!! hotel cotton bed linen required, 7,330 pcs, CFR Chicago. Shipment within 30 days. Only ISO-9001 certified suppliers. Target price USD 7.72 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0163",
+  "buyer_company_id": "CMP-01923",
+  "created_at": "2026-08-14T11:42:22",
+  "status": "open",
+  "text": "Urgent!! high density polyethylene required, 630 MTs, CIF Yiwu. Prompt shipment. Only iso9001 certified suppliers. Target price USD 970.42 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0164",
+  "buyer_company_id": "CMP-03250",
+  "created_at": "2026-04-21T09:02:43",
+  "status": "expired",
+  "text": "Need whole black pepper 500 GL ASTA 150 metric tons DAP Jeddah. One-time order. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0165",
+  "buyer_company_id": "CMP-00234",
+  "created_at": "2026-04-18T05:27:45",
+  "status": "open",
+  "text": "Hello, our company imports terry towel sets into United States. We need 7,410 kgs. Monthly requirement. CFR Houston. No China origin please. Suppliers with export experience to United States preferred."
+ },
+ {
+  "rfq_id": "RFQ-0166",
+  "buyer_company_id": "CMP-01146",
+  "created_at": "2026-06-18T00:35:02",
+  "status": "closed",
+  "text": "Requirement: stainless steel pressure cooker\nQty - 10480 kg\nPort - Jubail Port\nTerms - CIF\nCerts - Only API 5L certified suppliers.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0167",
+  "buyer_company_id": "CMP-04950",
+  "created_at": "2026-10-02T17:27:54",
+  "status": "open",
+  "text": "Requirement: SS 316L welded pipes\nQty - 300 metric tons\nPort - Port of Southampton\nTerms - CIF\nCerts - ce certification required.\nTarget price USD 2313.96 per MT.\nShipment: Need by December 2026."
+ },
+ {
+  "rfq_id": "RFQ-0168",
+  "buyer_company_id": "CMP-01789",
+  "created_at": "2025-11-14T02:38:58",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for ibuprofen tablets qty 240 KG delivery Port of Durban (CIP). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0169",
+  "buyer_company_id": "CMP-01848",
+  "created_at": "2026-06-13T04:05:03",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for unroasted coffee beans qty 44 tons delivery Newark (CIF). kosher certification required. Do not offer China origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0170",
+  "buyer_company_id": "CMP-02686",
+  "created_at": "2026-06-08T19:09:05",
+  "status": "closed",
+  "text": "Need toilet soap bars 12120 KG CIF GBFXT. Trial order first, then regular monthly. No Malaysia origin please. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0171",
+  "buyer_company_id": "CMP-01380",
+  "created_at": "2026-08-11T20:44:51",
+  "status": "closed",
+  "text": "We are looking for CPO in bulk. Quantity: 4300 tons. Delivery CFR Klang. FDA Registered certification required. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0172",
+  "buyer_company_id": "CMP-01602",
+  "created_at": "2025-11-06T17:06:22",
+  "status": "expired",
+  "text": "Need plastic toys 86,030 pieces CIF Germany. Trial order first, then regular monthly. EN71 and ISO 9001:2015 certification required. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0173",
+  "buyer_company_id": "CMP-04905",
+  "created_at": "2025-12-24T01:13:27",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for A1 super broken rice qty 2,000 MTs delivery Klang (DAP). Prefer India or Vietnam origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0174",
+  "buyer_company_id": "CMP-02721",
+  "created_at": "2026-09-05T10:07:17",
+  "status": "open",
+  "text": "We need two items: 1) espresso roasted coffee beans - 9,480 kgs 2) halal frozen boneless beef - 150 MTs. Both CIF Jeddah Islamic Port. Target price USD 13.73 per KG. Need by November 2026."
+ },
+ {
+  "rfq_id": "RFQ-0175",
+  "buyer_company_id": "CMP-03983",
+  "created_at": "2026-09-21T08:17:59",
+  "status": "open",
+  "text": "Hello, our company imports instant full cream milk powder into Egypt. We need 290 metric tons. Quarterly contract. CIF Egypt. kosher certification required. Prefer United States or United Kingdom origin. Suppliers with export experience to Egypt preferred."
+ },
+ {
+  "rfq_id": "RFQ-0176",
+  "buyer_company_id": "CMP-04176",
+  "created_at": "2026-04-30T01:07:21",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for frozen headless shell-on vannamei qty 63360 kg delivery Chicago (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0177",
+  "buyer_company_id": "CMP-04858",
+  "created_at": "2026-07-20T16:57:15",
+  "status": "awarded",
+  "text": "Hello, our company imports PE garbage bags into United States. We need 12600 kg. Monthly requirement. CIF Houston. Suppliers with export experience to United States preferred."
+ },
+ {
+  "rfq_id": "RFQ-0178",
+  "buyer_company_id": "CMP-02361",
+  "created_at": "2026-07-03T17:48:20",
+  "status": "awarded",
+  "text": "Hello, our company imports car spare parts into United States. We need 13970 kg. One-time order. CIF Chicago. IATF16949:2016 certification required. Origin preferred: China, Germany. Suppliers with export experience to United States preferred."
+ },
+ {
+  "rfq_id": "RFQ-0179",
+  "buyer_company_id": "CMP-04182",
+  "created_at": "2025-10-13T03:51:44",
+  "status": "awarded",
+  "text": "We are looking for ERW steel pipes. Quantity: 3 x 40ft FCL. Delivery CIP Jebel Ali Port. Origin preferred: Vietnam, China. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0180",
+  "buyer_company_id": "CMP-00855",
+  "created_at": "2026-08-14T02:30:42",
+  "status": "awarded",
+  "text": "Requirement: XLPE cables 1.1kV\nQty - 61,410 KG\nPort - Dubai\nTerms - CIF\nOrigin - Origin preferred: Turkey, India."
+ },
+ {
+  "rfq_id": "RFQ-0181",
+  "buyer_company_id": "CMP-04502",
+  "created_at": "2026-04-17T12:38:14",
+  "status": "awarded",
+  "text": "Need girls cotton shorts 26,480 units CFR Sri Lanka. Monthly requirement. Only BSCI certified suppliers. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0182",
+  "buyer_company_id": "CMP-01855",
+  "created_at": "2026-07-04T23:48:04",
+  "status": "open",
+  "text": "We are looking for PCR tyres. Quantity: 3,530 pcs. Delivery CIP LA. ECE R90 certification required. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0183",
+  "buyer_company_id": "CMP-03642",
+  "created_at": "2026-07-26T12:12:36",
+  "status": "awarded",
+  "text": "Need unshelled cashew nuts 590 MTs CIF United Arab Emirates. Quarterly contract. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0184",
+  "buyer_company_id": "CMP-00224",
+  "created_at": "2026-04-05T12:00:38",
+  "status": "expired",
+  "text": "Hello, our company imports automotive suspension parts into Sri Lanka. We need 12690 kg. Quarterly contract. CIP Colombo. Supplier must have ECE R90. Prefer Turkey or India origin. Suppliers with export experience to Sri Lanka preferred."
+ },
+ {
+  "rfq_id": "RFQ-0185",
+  "buyer_company_id": "CMP-03342",
+  "created_at": "2026-04-04T12:54:25",
+  "status": "open",
+  "text": "Hello, our company imports omeprazole capsules into South Africa. We need 230 kgs. Quarterly contract. CIF South Africa. Do not offer India origin. Suppliers with export experience to South Africa preferred."
+ },
+ {
+  "rfq_id": "RFQ-0186",
+  "buyer_company_id": "CMP-01692",
+  "created_at": "2025-10-06T07:32:51",
+  "status": "expired",
+  "text": "Requirement: RBD palm olein\nQty - 1720 MTs\nPort - Saudi Arabia\nTerms - CIF\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0187",
+  "buyer_company_id": "CMP-00442",
+  "created_at": "2026-02-02T12:06:44",
+  "status": "open",
+  "text": "We are looking for polished diamonds. Quantity: 2,560 cts. Delivery DAP Dubai. BIS Hallmark certification required. Turkey origin not acceptable. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0188",
+  "buyer_company_id": "CMP-00238",
+  "created_at": "2026-10-06T00:05:03",
+  "status": "open",
+  "text": "Need HDPE pipe grade PE100 900 MT DAP Kochi Port. Monthly requirement. ISO 9001:2015 and ISO 14001 certification required. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0189",
+  "buyer_company_id": "CMP-01926",
+  "created_at": "2026-04-29T13:50:52",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for beauty soap 100g qty 18770 kgs delivery KEMBA (CFR). Only iso 14001 certified suppliers. Origin preferred: India, United Arab Emirates. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0190",
+  "buyer_company_id": "CMP-00496",
+  "created_at": "2026-03-24T18:45:06",
+  "status": "open",
+  "text": "Need Ne 30/1 combed compact cotton yarn 41150 kg CFR Egypt. One-time order. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0191",
+  "buyer_company_id": "CMP-01093",
+  "created_at": "2026-10-06T21:40:50",
+  "status": "open",
+  "text": "Need face cream 9430 kg DAP Jeddah Islamic Port. Trial order first, then regular monthly. Halal certification required. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0192",
+  "buyer_company_id": "CMP-00348",
+  "created_at": "2026-01-29T16:45:59",
+  "status": "open",
+  "text": "Need 5 ply corrugated boxes 137,420 units CIF Mombasa Port. Monthly requirement. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0193",
+  "buyer_company_id": "CMP-00223",
+  "created_at": "2026-08-15T07:13:44",
+  "status": "open",
+  "text": "Hello, our company imports RCN raw cashew nuts into United Arab Emirates. We need 1,520 MT. One-time order. CFR Abu Dhabi Khalifa Port. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0194",
+  "buyer_company_id": "CMP-04530",
+  "created_at": "2025-10-20T18:37:12",
+  "status": "awarded",
+  "text": "Requirement: printed corrugated cartons\nQty - 184,800 pcs\nPort - AEJEA\nTerms - CIP"
+ },
+ {
+  "rfq_id": "RFQ-0195",
+  "buyer_company_id": "CMP-03620",
+  "created_at": "2025-11-09T14:56:31",
+  "status": "open",
+  "text": "Need UPS systems 4,910 units CIF Surabaya. Trial order first, then regular monthly. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0196",
+  "buyer_company_id": "CMP-01784",
+  "created_at": "2026-10-03T11:44:11",
+  "status": "open",
+  "text": "Hello, our company imports PET chips IV 0.80 into United Arab Emirates. We need 110 MT. Quarterly contract. CIF Jebel Ali Port. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0197",
+  "buyer_company_id": "CMP-00354",
+  "created_at": "2026-07-09T14:03:32",
+  "status": "awarded",
+  "text": "We need two items: 1) technical grade urea - 4950 metric tons 2) LLDPE butene grade - 440 metric tons. Both CFR Abu Dhabi Khalifa Port. Origin preferred: Egypt, Indonesia. Target price USD 400.91 per MT. Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0198",
+  "buyer_company_id": "CMP-04937",
+  "created_at": "2026-08-03T10:24:57",
+  "status": "open",
+  "text": "Urgent!! A356 aluminium alloy ingots required, 210 MT, CIF Sharjah Port. Need shipment in 4-6 weeks. Prefer Malaysia or Saudi Arabia origin."
+ },
+ {
+  "rfq_id": "RFQ-0199",
+  "buyer_company_id": "CMP-00607",
+  "created_at": "2026-03-31T21:16:33",
+  "status": "expired",
+  "text": "We are looking for instant full cream milk powder. Quantity: 180 MT. Delivery CIF Jebel Ali Port. Origin preferred: Germany, United States. Target price USD 4242.37 per MT. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0200",
+  "buyer_company_id": "CMP-02980",
+  "created_at": "2026-04-21T08:06:03",
+  "status": "expired",
+  "text": "Requirement: hot rolled pickled and oiled coils 2.5mm\nQty - 3750 tons\nPort - Ajman\nTerms - CIP\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0201",
+  "buyer_company_id": "CMP-03120",
+  "created_at": "2026-04-12T09:45:12",
+  "status": "expired",
+  "text": "Requirement: hotel bath towels 500 GSM\nQty - 8830 KG\nPort - Port of Hamburg\nTerms - CFR\nTarget price USD 6.92 per KG.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0202",
+  "buyer_company_id": "CMP-03598",
+  "created_at": "2026-01-18T19:38:05",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for ADC12 aluminium ingots qty 780 MT delivery Mersin (CIF). Only ISO 9001:2015 certified suppliers. Origin preferred: China, Saudi Arabia. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0203",
+  "buyer_company_id": "CMP-00364",
+  "created_at": "2026-05-16T19:03:27",
+  "status": "open",
+  "text": "Urgent!! ibuprofen tablets required, 2500 kgs, DAP Durban. ISO 9001:2015 certification required."
+ },
+ {
+  "rfq_id": "RFQ-0204",
+  "buyer_company_id": "CMP-03339",
+  "created_at": "2026-01-19T16:33:37",
+  "status": "closed",
+  "text": "We need two items: 1) Chromebooks - 2,260 units 2) monoblock centrifugal pumps - 3850 pcs. Both CIF Jeddah. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0205",
+  "buyer_company_id": "CMP-03344",
+  "created_at": "2026-06-27T07:09:48",
+  "status": "expired",
+  "text": "We are looking for double charge vitrified tiles. Quantity: 3,540 square meters. Delivery CIF Joburg. Supplier must have iso 14001. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0206",
+  "buyer_company_id": "CMP-00382",
+  "created_at": "2026-06-18T13:26:06",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for crude palm oil FFA 5% max qty 5030 MT delivery SAJED (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0207",
+  "buyer_company_id": "CMP-03109",
+  "created_at": "2025-11-18T19:23:25",
+  "status": "expired",
+  "text": "Requirement: wooden beds\nQty - 610 pieces\nPort - Bradford\nTerms - DAP\nCerts - FSC certification required.\nOrigin - Do not offer Pakistan origin.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0208",
+  "buyer_company_id": "CMP-04754",
+  "created_at": "2026-06-27T04:03:59",
+  "status": "awarded",
+  "text": "Hello, our company imports power inverters into South Africa. We need 920 pieces. CFR Durban. Vietnam origin not acceptable. Suppliers with export experience to South Africa preferred."
+ },
+ {
+  "rfq_id": "RFQ-0209",
+  "buyer_company_id": "CMP-00244",
+  "created_at": "2025-11-08T11:50:07",
+  "status": "awarded",
+  "text": "Urgent!! brake shoes required, 27,640 kgs, DAP Pretoria. Need by December 2025. No Germany origin please."
+ },
+ {
+  "rfq_id": "RFQ-0210",
+  "buyer_company_id": "CMP-02943",
+  "created_at": "2026-05-13T11:21:53",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for technical grade urea qty 81950 MT delivery Abu Dhabi (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0211",
+  "buyer_company_id": "CMP-01209",
+  "created_at": "2026-08-22T17:31:16",
+  "status": "closed",
+  "text": "Urgent!! truck spare parts required, 3,910 KG, CIF Mombasa Port. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0212",
+  "buyer_company_id": "CMP-00236",
+  "created_at": "2025-12-01T14:42:56",
+  "status": "open",
+  "text": "Need IQF peeled deveined shrimp 18,790 kg DAP Abu Dhabi Khalifa Port. Monthly requirement. Only FDA Registered certified suppliers. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0213",
+  "buyer_company_id": "CMP-04998",
+  "created_at": "2026-06-14T06:46:18",
+  "status": "closed",
+  "text": "Hello, our company imports PET chips IV 0.80 into United Arab Emirates. We need 240 metric tons. DAP Khalifa Port. Origin preferred: China, India. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0214",
+  "buyer_company_id": "CMP-01496",
+  "created_at": "2026-04-23T07:16:50",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for crude palm oil FFA 5% max qty 15,080 MT delivery Jebel Ali Port (CIF). Supplier must have FDA Registered. Prefer Malaysia or Indonesia origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0215",
+  "buyer_company_id": "CMP-03487",
+  "created_at": "2026-08-15T23:30:54",
+  "status": "awarded",
+  "text": "We are looking for polyethylene carry bags. Quantity: 47,810 kgs. Delivery CIF Port Elizabeth. Do not offer United Arab Emirates origin. Target price USD 1.7 per KG. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0216",
+  "buyer_company_id": "CMP-02829",
+  "created_at": "2025-11-22T07:54:03",
+  "status": "awarded",
+  "text": "Need TBR tyres 1190 pcs CFR LA/Long Beach. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0217",
+  "buyer_company_id": "CMP-01784",
+  "created_at": "2026-07-18T08:11:17",
+  "status": "awarded",
+  "text": "We are looking for PET chips IV 0.80. Quantity: 160 tons. Delivery CIF Dubai. No Pakistan origin please. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0218",
+  "buyer_company_id": "CMP-02051",
+  "created_at": "2026-04-23T16:34:25",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for polyester sublimation tees qty 39960 pcs delivery KEMBA (CIF). Only WRAP certified suppliers. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0219",
+  "buyer_company_id": "CMP-04774",
+  "created_at": "2026-07-02T06:30:42",
+  "status": "open",
+  "text": "Hello, our company imports robusta screen 18 green coffee into Saudi Arabia. We need 97 MTs. Trial order first, then regular monthly. CIP Jeddah. Only USDA Organic certified suppliers. Suppliers with export experience to Saudi Arabia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0220",
+  "buyer_company_id": "CMP-02711",
+  "created_at": "2026-06-12T00:50:02",
+  "status": "awarded",
+  "text": "Requirement: silver anklets\nQty - 33770 gms\nPort - GBFXT\nTerms - CFR\nTarget price USD 1.28 per G.\nShipment: Need by August 2026."
+ },
+ {
+  "rfq_id": "RFQ-0221",
+  "buyer_company_id": "CMP-04226",
+  "created_at": "2026-02-19T20:57:25",
+  "status": "awarded",
+  "text": "Requirement: matte liquid lipstick\nQty - 49,280 units\nPort - Abu Dhabi Khalifa Port\nTerms - CFR\nCerts - Only ISO 9001:2015 certified suppliers.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0222",
+  "buyer_company_id": "CMP-02459",
+  "created_at": "2026-08-28T06:05:30",
+  "status": "expired",
+  "text": "We are looking for 40s combed cotton yarn. Quantity: 58530 kg. Delivery CIF Tianjin. Only ISO-9001 certified suppliers. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0223",
+  "buyer_company_id": "CMP-04976",
+  "created_at": "2026-02-28T15:24:31",
+  "status": "closed",
+  "text": "Hello, our company imports SS tiffin boxes into South Africa. We need 14,370 kgs. Trial order first, then regular monthly. DAP Cape Town. iso 14001 certification required. Origin preferred: China, India. Suppliers with export experience to South Africa preferred."
+ },
+ {
+  "rfq_id": "RFQ-0224",
+  "buyer_company_id": "CMP-00664",
+  "created_at": "2026-10-03T08:09:54",
+  "status": "open",
+  "text": "We are looking for frozen northern prawns. Quantity: 7170 kgs. Delivery CIF SAJED. Prefer Vietnam or India origin. Target price USD 12.2 per KG. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0225",
+  "buyer_company_id": "CMP-04922",
+  "created_at": "2026-04-07T00:20:48",
+  "status": "expired",
+  "text": "We are looking for stainless steel welded pipes. Quantity: 11 x 20ft FCL. Delivery CIF Manchester. Prefer Italy or India origin. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0226",
+  "buyer_company_id": "CMP-02215",
+  "created_at": "2025-12-31T11:15:00",
+  "status": "closed",
+  "text": "Need HRC below 3mm thickness 3,990 MT DAP Napoli. Monthly requirement. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0227",
+  "buyer_company_id": "CMP-03498",
+  "created_at": "2026-07-07T04:27:09",
+  "status": "closed",
+  "text": "We are looking for ordinary portland cement OPC 53. Quantity: 68020 MT. Delivery CFR Mombasa Port. Origin preferred: Vietnam, India. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0228",
+  "buyer_company_id": "CMP-01733",
+  "created_at": "2026-04-17T07:42:03",
+  "status": "awarded",
+  "text": "Urgent!! percale cotton bed sheet sets required, 33040 pieces, CIF Port of Savannah. Need by July 2026. Target price USD 7.34 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0229",
+  "buyer_company_id": "CMP-04804",
+  "created_at": "2026-02-01T12:40:10",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for CPO in bulk qty 1010 MT delivery Rajkot (CFR). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0230",
+  "buyer_company_id": "CMP-02663",
+  "created_at": "2025-10-23T00:54:58",
+  "status": "open",
+  "text": "Urgent!! end suction centrifugal pumps required, 1840 pieces, CFR Cape Town. Shipment within 30 days. Origin preferred: India, China."
+ },
+ {
+  "rfq_id": "RFQ-0231",
+  "buyer_company_id": "CMP-00206",
+  "created_at": "2026-02-11T10:40:03",
+  "status": "expired",
+  "text": "Need HR coils SAE1006 9 x 20ft FCL CFR Riyadh. One-time order. ISO 9001 certification required. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0232",
+  "buyer_company_id": "CMP-04379",
+  "created_at": "2026-02-17T07:04:41",
+  "status": "open",
+  "text": "Hello, our company imports urea 46 fertilizer into Sri Lanka. We need 10440 tons. CIF Hambantota. No Indonesia origin please. Suppliers with export experience to Sri Lanka preferred."
+ },
+ {
+  "rfq_id": "RFQ-0233",
+  "buyer_company_id": "CMP-02181",
+  "created_at": "2026-06-27T07:18:10",
+  "status": "awarded",
+  "text": "We need two items: 1) ADC12 aluminium ingots - 82 tons 2) stainless steel cookware set - 11780 kg. Both CIP Port of Hamburg. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0234",
+  "buyer_company_id": "CMP-01029",
+  "created_at": "2026-03-30T18:20:49",
+  "status": "closed",
+  "text": "We need two items: 1) refurbished laptops - 1,620 pcs 2) centrifugal water pumps - 1280 units. Both CFR Dubai (Jebel Ali). Target price USD 886.08 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0235",
+  "buyer_company_id": "CMP-02043",
+  "created_at": "2026-03-17T13:08:50",
+  "status": "awarded",
+  "text": "Hello, our company imports IQF peeled deveined shrimp into United States. We need 11030 kg. One-time order. DAP New York. Suppliers with export experience to United States preferred."
+ },
+ {
+  "rfq_id": "RFQ-0236",
+  "buyer_company_id": "CMP-02624",
+  "created_at": "2026-02-05T02:53:19",
+  "status": "expired",
+  "text": "We are looking for leather clutch bags. Quantity: 1,190 pieces. Delivery DAP United Arab Emirates. Origin preferred: Italy, China. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0237",
+  "buyer_company_id": "CMP-00849",
+  "created_at": "2026-07-19T01:40:41",
+  "status": "expired",
+  "text": "Hello, our company imports IQF peeled deveined shrimp into United Arab Emirates. We need 20760 KG. CIP United Arab Emirates. Only Halal certified suppliers. Vietnam origin not acceptable. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0238",
+  "buyer_company_id": "CMP-00098",
+  "created_at": "2026-10-05T02:05:03",
+  "status": "open",
+  "text": "Need polyester sublimation tees 22860 pcs CFR Bremerhaven Port. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0239",
+  "buyer_company_id": "CMP-00253",
+  "created_at": "2026-07-20T10:41:15",
+  "status": "expired",
+  "text": "Hello, our company imports MS round pipes into Saudi Arabia. We need 870 MTs. One-time order. DAP Jeddah. Suppliers with export experience to Saudi Arabia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0240",
+  "buyer_company_id": "CMP-03233",
+  "created_at": "2026-03-30T17:36:34",
+  "status": "closed",
+  "text": "Urgent!! combed cotton yarn for knitting required, 94100 kgs, CIF Bangladesh. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0241",
+  "buyer_company_id": "CMP-03636",
+  "created_at": "2026-03-28T00:58:22",
+  "status": "closed",
+  "text": "Need HRPO coils 3,520 metric tons CIF AEJEA. Monthly requirement. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0242",
+  "buyer_company_id": "CMP-01057",
+  "created_at": "2026-09-12T20:30:27",
+  "status": "closed",
+  "text": "We are looking for LWP cashew pieces. Quantity: 20860 KG. Delivery CFR USNYC. Target price USD 8.44 per KG. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0243",
+  "buyer_company_id": "CMP-00277",
+  "created_at": "2026-01-05T15:37:11",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for atorvastatin tablets qty 9310 kg delivery Belo Horizonte (CFR). who gmp and EUGMP certification required. Prefer Italy or United Kingdom origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0244",
+  "buyer_company_id": "CMP-04520",
+  "created_at": "2026-09-28T09:55:16",
+  "status": "open",
+  "text": "We need two items: 1) women's cotton trousers - 13190 units 2) men's cotton crew neck t-shirts - 9,340 pieces. Both CIF ZADUR. Origin preferred: China, Turkey. Do not offer India origin. Need by December 2026."
+ },
+ {
+  "rfq_id": "RFQ-0245",
+  "buyer_company_id": "CMP-03628",
+  "created_at": "2026-09-07T08:31:20",
+  "status": "awarded",
+  "text": "Requirement: clarithromycin tablets\nQty - 4380 KG\nPort - Houston\nTerms - CFR\nCerts - Supplier must have ISO 9001.\nOrigin - Prefer China or Italy origin.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0246",
+  "buyer_company_id": "CMP-02399",
+  "created_at": "2026-09-25T12:49:25",
+  "status": "open",
+  "text": "Need frozen Pandalus borealis shrimp 7780 kgs CIF Klang. Quarterly contract. Supplier must have HACCP and USDA Organic. Origin preferred: India, China. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0247",
+  "buyer_company_id": "CMP-04306",
+  "created_at": "2026-09-01T23:26:17",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for A1 super broken rice qty 640 MT delivery MYPKG (CIF). Supplier must have Halal and FDA Registered. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0248",
+  "buyer_company_id": "CMP-01081",
+  "created_at": "2026-08-19T01:14:50",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for glazed porcelain tiles qty 2060 sqm delivery United States (DAP). Origin preferred: China, Turkey. No Pakistan origin please. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0249",
+  "buyer_company_id": "CMP-04686",
+  "created_at": "2026-08-31T13:47:13",
+  "status": "closed",
+  "text": "Hello, our company imports low density polyethylene into Kenya. We need 350 MT. Monthly requirement. CIF Mombasa. Suppliers with export experience to Kenya preferred."
+ },
+ {
+  "rfq_id": "RFQ-0250",
+  "buyer_company_id": "CMP-02420",
+  "created_at": "2026-01-26T08:21:16",
+  "status": "expired",
+  "text": "Need brake calipers 19030 kgs CIF Kilindini. Quarterly contract. Do not offer Pakistan origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0251",
+  "buyer_company_id": "CMP-01805",
+  "created_at": "2026-09-30T05:14:46",
+  "status": "open",
+  "text": "Hello, our company imports LDPE bags into United Arab Emirates. We need 15150 kg. Trial order first, then regular monthly. CIF Khalid Port. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0252",
+  "buyer_company_id": "CMP-03828",
+  "created_at": "2026-03-17T00:46:19",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for multistage centrifugal pumps qty 3,810 pcs delivery MYPKG (DAP). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0253",
+  "buyer_company_id": "CMP-02801",
+  "created_at": "2026-01-15T01:43:44",
+  "status": "open",
+  "text": "We are looking for non basmati rice. Quantity: 430 tons. Delivery CFR Abu Dhabi Khalifa Port. Supplier must have FSSC22000. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0254",
+  "buyer_company_id": "CMP-04861",
+  "created_at": "2026-07-24T09:23:07",
+  "status": "expired",
+  "text": "We are looking for ERW black pipes. Quantity: 980 MT. Delivery CIP Kuala Lumpur. Prefer China or Turkey origin. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0255",
+  "buyer_company_id": "CMP-01801",
+  "created_at": "2025-10-20T08:52:05",
+  "status": "closed",
+  "text": "Urgent!! 100% cotton open end yarn 16s required, 40,540 kg, CIP VNSGN. Shipment within 30 days. Prefer Pakistan or China origin."
+ },
+ {
+  "rfq_id": "RFQ-0256",
+  "buyer_company_id": "CMP-03115",
+  "created_at": "2026-05-24T16:36:38",
+  "status": "expired",
+  "text": "We are looking for refined white sugar ICUMSA 45. Quantity: 3,680 metric tons. Delivery DAP Port of Durban. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0257",
+  "buyer_company_id": "CMP-00528",
+  "created_at": "2026-01-07T06:43:21",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for passenger car tyres qty 4530 pcs delivery ZADUR (CFR). Only TS 16949/IATF certified suppliers. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0258",
+  "buyer_company_id": "CMP-04043",
+  "created_at": "2026-08-08T10:02:04",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for Salem turmeric fingers qty 170 tons delivery AEJEA (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0259",
+  "buyer_company_id": "CMP-04338",
+  "created_at": "2026-08-31T08:32:09",
+  "status": "awarded",
+  "text": "Need monoblock centrifugal pumps 540 units CIF Tg. Priok. Monthly requirement. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0260",
+  "buyer_company_id": "CMP-00746",
+  "created_at": "2026-09-13T19:10:47",
+  "status": "expired",
+  "text": "We are looking for CPO in bulk. Quantity: 10 x 40ft FCL. Delivery CIF United States. Target price USD 1060.57 per MT. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0261",
+  "buyer_company_id": "CMP-00160",
+  "created_at": "2026-04-12T14:06:36",
+  "status": "open",
+  "text": "Hello, our company imports submersible borewell pumps into United Arab Emirates. We need 1920 pieces. Monthly requirement. CIP United Arab Emirates. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0262",
+  "buyer_company_id": "CMP-00030",
+  "created_at": "2026-06-10T03:24:43",
+  "status": "closed",
+  "text": "Need gold chains 5460 gms CIF Dubai (Jebel Ali). pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0263",
+  "buyer_company_id": "CMP-01168",
+  "created_at": "2026-03-23T23:32:57",
+  "status": "closed",
+  "text": "We are looking for women's leather sandals rubber sole. Quantity: 21470 prs. Delivery CIF DEHAM. Prefer Vietnam or China origin. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0264",
+  "buyer_company_id": "CMP-01308",
+  "created_at": "2026-02-15T01:40:36",
+  "status": "expired",
+  "text": "We are looking for CPO in bulk. Quantity: 9410 MTs. Delivery CIF INNSA. Origin preferred: Malaysia, Indonesia. Target price USD 787.84 per MT. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0265",
+  "buyer_company_id": "CMP-02135",
+  "created_at": "2026-07-27T05:34:58",
+  "status": "closed",
+  "text": "Hello, our company imports brake calipers into United Arab Emirates. We need 17,030 kgs. CIF Abu Dhabi Khalifa Port. Supplier must have TS 16949/IATF. Origin preferred: India, Turkey. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0266",
+  "buyer_company_id": "CMP-04804",
+  "created_at": "2026-08-08T04:33:12",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for crude palm oil qty 9 x 20ft FCL delivery INMUN (CFR). Supplier must have HACCP. Origin preferred: Indonesia, Malaysia. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0267",
+  "buyer_company_id": "CMP-03324",
+  "created_at": "2026-01-01T14:30:55",
+  "status": "closed",
+  "text": "We are looking for leather shoes with rubber sole. Quantity: 3,390 pairs. Delivery CIF Dammam. SEDEX certification required. Prefer China or Brazil origin. Vietnam origin not acceptable. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0268",
+  "buyer_company_id": "CMP-04569",
+  "created_at": "2026-01-19T21:16:32",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for roasted whole bean coffee qty 2,740 KG delivery Jeddah (CIF). Supplier must have HACCP. Origin preferred: Germany, Vietnam. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0269",
+  "buyer_company_id": "CMP-02162",
+  "created_at": "2026-07-16T20:00:42",
+  "status": "open",
+  "text": "We are looking for 1121 basmati rice. Quantity: 920 tons. Delivery DAP Durban. Target price USD 838.52 per MT. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0270",
+  "buyer_company_id": "CMP-00408",
+  "created_at": "2025-11-03T06:02:59",
+  "status": "expired",
+  "text": "Hello, our company imports omeprazole capsules into United Kingdom. We need 2,390 kg. Quarterly contract. CIF Birmingham. Origin preferred: India, Germany. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0271",
+  "buyer_company_id": "CMP-04713",
+  "created_at": "2026-08-16T20:48:37",
+  "status": "expired",
+  "text": "Urgent!! monoblock centrifugal pumps required, 1,000 pieces, DAP Port of Durban. Need shipment in 4-6 weeks. Target price USD 1789.25 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0272",
+  "buyer_company_id": "CMP-04149",
+  "created_at": "2026-05-04T22:28:03",
+  "status": "closed",
+  "text": "Urgent!! bedroom furniture in solid wood required, 240 pcs, CIF Sharjah Port. Need by June 2026. bsci certification required."
+ },
+ {
+  "rfq_id": "RFQ-0273",
+  "buyer_company_id": "CMP-02824",
+  "created_at": "2026-08-07T16:52:23",
+  "status": "awarded",
+  "text": "Requirement: Pusa basmati rice\nQty - 100 MT\nPort - Abu Dhabi Khalifa Port\nTerms - CIF\nCerts - Only HACCP and kosher certified suppliers.\nOrigin - Prefer Vietnam or Pakistan origin.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0274",
+  "buyer_company_id": "CMP-01775",
+  "created_at": "2026-02-14T00:01:25",
+  "status": "closed",
+  "text": "Requirement: LLDPE butene grade\nQty - 400 tons\nPort - CNSHA\nTerms - CIF\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0275",
+  "buyer_company_id": "CMP-03475",
+  "created_at": "2026-03-29T17:59:55",
+  "status": "awarded",
+  "text": "Hello, our company imports cotton cargo shorts for men into Malaysia. We need 25,910 pieces. Quarterly contract. CFR MYPKG. GOTS certification required. Suppliers with export experience to Malaysia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0276",
+  "buyer_company_id": "CMP-03821",
+  "created_at": "2026-07-15T21:13:50",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for prilled urea qty 80,550 MTs delivery Jebel Ali Port (CIF). Prefer China or Egypt origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0277",
+  "buyer_company_id": "CMP-00355",
+  "created_at": "2026-02-26T15:41:09",
+  "status": "awarded",
+  "text": "Requirement: whole black pepper 500 GL ASTA\nQty - 34 MTs\nPort - Tanjung Pelepas\nTerms - CFR\nOrigin - Prefer Indonesia or Brazil origin.\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0278",
+  "buyer_company_id": "CMP-04331",
+  "created_at": "2026-10-07T07:02:50",
+  "status": "open",
+  "text": "Requirement: RCN raw cashew nuts\nQty - 3,620 tons\nPort - Kochi Port\nTerms - CIP\nShipment: Need by December 2026."
+ },
+ {
+  "rfq_id": "RFQ-0279",
+  "buyer_company_id": "CMP-00398",
+  "created_at": "2026-08-26T04:45:03",
+  "status": "expired",
+  "text": "Hello, our company imports Santos arabica green beans into United Arab Emirates. We need 170 MTs. Trial order first, then regular monthly. CIF Sharjah Port. Only FSSC22000 and Halal certified suppliers. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0280",
+  "buyer_company_id": "CMP-01710",
+  "created_at": "2026-06-28T09:37:40",
+  "status": "open",
+  "text": "We need two items: 1) corrugated cartons - 25770 units 2) LDPE zip lock bags - 21,030 kgs. Both CIP Jeddah. Supplier must have FSC. Origin preferred: Vietnam, Malaysia. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0281",
+  "buyer_company_id": "CMP-03079",
+  "created_at": "2026-06-23T00:20:08",
+  "status": "open",
+  "text": "Urgent!! new car tires required, 2,910 pieces, CFR Kilindini."
+ },
+ {
+  "rfq_id": "RFQ-0282",
+  "buyer_company_id": "CMP-04330",
+  "created_at": "2026-03-30T17:21:42",
+  "status": "awarded",
+  "text": "Hello, our company imports leather clutch bags into United Kingdom. We need 3,620 units. One-time order. CFR Southampton. Prefer Italy or India origin. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0283",
+  "buyer_company_id": "CMP-01140",
+  "created_at": "2026-02-05T21:45:33",
+  "status": "expired",
+  "text": "We need two items: 1) SS 304 welded tubes - 4 x 20ft FCL 2) hot rolled pickled and oiled coils 2.5mm - 2 x 40ft FCL. Both CIF Tenth of Ramadan. Prefer China or Germany origin. No Italy origin please. Need by April 2026."
+ },
+ {
+  "rfq_id": "RFQ-0284",
+  "buyer_company_id": "CMP-03262",
+  "created_at": "2026-05-10T07:40:33",
+  "status": "closed",
+  "text": "We need two items: 1) laptops - 7,820 pieces 2) XLPE cables 1.1kV - 8,680 kgs. Both CIF KEMBA. Need by July 2026."
+ },
+ {
+  "rfq_id": "RFQ-0285",
+  "buyer_company_id": "CMP-00543",
+  "created_at": "2025-11-18T07:05:01",
+  "status": "awarded",
+  "text": "We need two items: 1) PET chips IV 0.80 - 380 metric tons 2) matte liquid lipstick - 4,210 pieces. Both CIP United Arab Emirates. China origin not acceptable."
+ },
+ {
+  "rfq_id": "RFQ-0286",
+  "buyer_company_id": "CMP-00402",
+  "created_at": "2025-11-30T11:20:18",
+  "status": "awarded",
+  "text": "Hello, our company imports battery chargers into United Kingdom. We need 4300 pcs. Monthly requirement. DAP London Gateway. Prefer China or Vietnam origin. No Germany origin please. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0287",
+  "buyer_company_id": "CMP-03999",
+  "created_at": "2026-07-07T09:39:59",
+  "status": "closed",
+  "text": "Need instant full cream milk powder 5 x 20ft FCL CIF Saudi Arabia. Trial order first, then regular monthly. Supplier must have FSSC22000 and Kosher. Do not offer Germany origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0288",
+  "buyer_company_id": "CMP-04869",
+  "created_at": "2026-08-27T23:26:38",
+  "status": "expired",
+  "text": "Requirement: semi-vitreous floor tiles\nQty - 10060 square meters\nPort - Savannah\nTerms - CIP\nTarget price USD 4.73 per SQM.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0289",
+  "buyer_company_id": "CMP-02332",
+  "created_at": "2025-11-01T07:56:53",
+  "status": "open",
+  "text": "We need two items: 1) CTC black tea bulk - 119080 kg 2) split cashew kernels - 25,970 kg. Both CIF AEJEA. Need by December 2025."
+ },
+ {
+  "rfq_id": "RFQ-0290",
+  "buyer_company_id": "CMP-03937",
+  "created_at": "2026-06-09T21:25:03",
+  "status": "expired",
+  "text": "We are looking for men's leather casual shoes TPR sole. Quantity: 3,620 prs. Delivery CIP DEHAM. Target price USD 14.83 per PAIRS. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0291",
+  "buyer_company_id": "CMP-00469",
+  "created_at": "2025-10-19T15:53:45",
+  "status": "expired",
+  "text": "Hello, our company imports TBR tyres into United Kingdom. We need 1,780 pieces. Monthly requirement. CFR Felixstowe. E-Mark certification required. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0292",
+  "buyer_company_id": "CMP-03374",
+  "created_at": "2026-03-22T07:01:00",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for submersible borewell pumps qty 2180 pcs delivery Abu Dhabi (CIF). BIS certification required. Prefer China or Italy origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0293",
+  "buyer_company_id": "CMP-02829",
+  "created_at": "2026-09-19T08:25:17",
+  "status": "open",
+  "text": "Requirement: new car tires\nQty - 1690 pieces\nPort - Houston\nTerms - DAP"
+ },
+ {
+  "rfq_id": "RFQ-0294",
+  "buyer_company_id": "CMP-00514",
+  "created_at": "2026-07-06T15:15:27",
+  "status": "expired",
+  "text": "Urgent!! TBR tyres required, 950 units, CFR United Kingdom. Need by August 2026. Do not offer Turkey origin. Target price USD 232.38 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0295",
+  "buyer_company_id": "CMP-02416",
+  "created_at": "2026-02-20T23:53:26",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for HDPE granules qty 11 x 40ft FCL delivery Faisalabad (CIF). REACH and ISO-9001 certification required. Origin preferred: United Arab Emirates, Malaysia. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0296",
+  "buyer_company_id": "CMP-03414",
+  "created_at": "2026-07-19T18:31:21",
+  "status": "expired",
+  "text": "Hello, our company imports kids cotton tees into China. We need 35110 pieces. Trial order first, then regular monthly. CIP Xiamen Port. Do not offer Pakistan origin. Suppliers with export experience to China preferred."
+ },
+ {
+  "rfq_id": "RFQ-0297",
+  "buyer_company_id": "CMP-04974",
+  "created_at": "2026-08-28T10:28:09",
+  "status": "open",
+  "text": "Hello, our company imports window air conditioners into Egypt. We need 500 units. Quarterly contract. CIF El Dekheila. Only ul and ISO 9001 certified suppliers. Suppliers with export experience to Egypt preferred."
+ },
+ {
+  "rfq_id": "RFQ-0298",
+  "buyer_company_id": "CMP-00282",
+  "created_at": "2026-04-08T03:22:11",
+  "status": "expired",
+  "text": "Need PVC insulated copper cables 63,940 KG CIF PTP. Monthly requirement. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0299",
+  "buyer_company_id": "CMP-03581",
+  "created_at": "2026-07-16T04:29:18",
+  "status": "expired",
+  "text": "Need travertine slabs 3,560 square meters DAP Jebel Ali Port. Trial order first, then regular monthly. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0300",
+  "buyer_company_id": "CMP-01815",
+  "created_at": "2026-01-23T06:59:06",
+  "status": "open",
+  "text": "Requirement: notebook computers\nQty - 4,050 pieces\nPort - SAJED\nTerms - CIF\nCerts - Only BIS certified suppliers.\nShipment: Need by April 2026."
+ },
+ {
+  "rfq_id": "RFQ-0301",
+  "buyer_company_id": "CMP-03484",
+  "created_at": "2026-05-14T19:35:38",
+  "status": "awarded",
+  "text": "Need face cream 3,500 kgs CIF Dubai (Jebel Ali). Quarterly contract. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0302",
+  "buyer_company_id": "CMP-03400",
+  "created_at": "2026-05-10T07:17:27",
+  "status": "awarded",
+  "text": "Urgent!! RBD palm oil required, 1620 MTs, CIF Pakistan. Shipment within 30 days. Origin preferred: Malaysia, Indonesia. fda registered certification required. Target price USD 859.87 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0303",
+  "buyer_company_id": "CMP-04660",
+  "created_at": "2025-11-28T01:01:46",
+  "status": "open",
+  "text": "We are looking for glycerine soap. Quantity: 6050 kg. Delivery CFR Jebel Ali. Only ISO 9001 certified suppliers. Do not offer India origin. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0304",
+  "buyer_company_id": "CMP-02503",
+  "created_at": "2026-03-20T14:50:54",
+  "status": "closed",
+  "text": "Hello, our company imports frozen buffalo meat topside into Saudi Arabia. We need 140 MT. One-time order. CIP Jeddah Islamic Port. Suppliers with export experience to Saudi Arabia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0305",
+  "buyer_company_id": "CMP-00636",
+  "created_at": "2026-09-12T15:49:30",
+  "status": "closed",
+  "text": "We are looking for refined palm oil. Quantity: 3,750 metric tons. Delivery DAP Bin Qasim. Origin preferred: Indonesia, Malaysia. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0306",
+  "buyer_company_id": "CMP-00643",
+  "created_at": "2026-08-22T07:37:36",
+  "status": "awarded",
+  "text": "Need CPO in bulk 6,600 metric tons CIF PKKHI. haccp and FDA Registered certification required. Origin preferred: Malaysia, Indonesia. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0307",
+  "buyer_company_id": "CMP-04715",
+  "created_at": "2026-06-22T09:02:35",
+  "status": "open",
+  "text": "Requirement: matte liquid lipstick\nQty - 78030 pcs\nPort - ZADUR\nTerms - CIF\nTarget price USD 3.56 per PCS.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0308",
+  "buyer_company_id": "CMP-04087",
+  "created_at": "2026-05-22T06:11:38",
+  "status": "expired",
+  "text": "We are looking for portland cement in 50kg bags. Quantity: 21,700 MT. Delivery CIF Tanjung Pelepas. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0309",
+  "buyer_company_id": "CMP-02339",
+  "created_at": "2025-10-27T09:15:19",
+  "status": "open",
+  "text": "We are looking for terry towel sets. Quantity: 37200 KG. Delivery DAP Hamburg. Supplier must have OEKO-TEX. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0310",
+  "buyer_company_id": "CMP-02818",
+  "created_at": "2026-01-06T16:01:34",
+  "status": "expired",
+  "text": "We are looking for roasted whole bean coffee. Quantity: 9450 kg. Delivery CIP Port of Savannah. Supplier must have FDA Registered certified. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0311",
+  "buyer_company_id": "CMP-00943",
+  "created_at": "2026-08-28T09:06:48",
+  "status": "expired",
+  "text": "Need men's 5 pocket denim trousers 52540 units CIF United States. Quarterly contract. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0312",
+  "buyer_company_id": "CMP-03120",
+  "created_at": "2026-05-21T13:15:41",
+  "status": "awarded",
+  "text": "Hello, our company imports hotel bath towels 500 GSM into Germany. We need 13130 kg. Quarterly contract. CIF DEHAM. BSCI certification required. Suppliers with export experience to Germany preferred."
+ },
+ {
+  "rfq_id": "RFQ-0313",
+  "buyer_company_id": "CMP-03286",
+  "created_at": "2026-07-10T07:38:50",
+  "status": "open",
+  "text": "Hello, our company imports 5 ply corrugated boxes into Malaysia. We need 83390 pcs. CFR Pulau Pinang. Prefer India or China origin. Suppliers with export experience to Malaysia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0314",
+  "buyer_company_id": "CMP-04713",
+  "created_at": "2026-06-12T02:15:31",
+  "status": "awarded",
+  "text": "Requirement: split air conditioners\nQty - 2980 pcs\nPort - Port of Durban\nTerms - CIF\nOrigin - Do not offer China origin.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0315",
+  "buyer_company_id": "CMP-02916",
+  "created_at": "2026-07-07T20:37:06",
+  "status": "closed",
+  "text": "Requirement: green coffee beans arabica\nQty - 4 x 40ft FCL\nPort - Jebel Ali Port\nTerms - CFR\nOrigin - Prefer Vietnam or Brazil origin.\nShipment: Need by August 2026."
+ },
+ {
+  "rfq_id": "RFQ-0316",
+  "buyer_company_id": "CMP-00786",
+  "created_at": "2026-07-30T02:24:21",
+  "status": "closed",
+  "text": "Requirement: car spare parts\nQty - 9,840 KG\nPort - Hamburg\nTerms - DAP\nCerts - Supplier must have IATF 16949 and ECE R90 certified.\nOrigin - Prefer Turkey or China origin."
+ },
+ {
+  "rfq_id": "RFQ-0317",
+  "buyer_company_id": "CMP-00046",
+  "created_at": "2026-01-12T16:10:44",
+  "status": "closed",
+  "text": "Requirement: power inverters\nQty - 3240 pcs\nPort - Sokhna\nTerms - CIF\nShipment: Need by March 2026."
+ },
+ {
+  "rfq_id": "RFQ-0318",
+  "buyer_company_id": "CMP-04265",
+  "created_at": "2025-12-14T00:27:48",
+  "status": "closed",
+  "text": "Urgent!! printed corrugated cartons required, 33,790 pieces, CIF Cape Town. Prompt shipment. Prefer India or Vietnam origin."
+ },
+ {
+  "rfq_id": "RFQ-0319",
+  "buyer_company_id": "CMP-04995",
+  "created_at": "2026-05-17T01:22:29",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for cashew kernels W320 qty 30,560 KG delivery Negombo (CFR). USDA Organic certification required. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0320",
+  "buyer_company_id": "CMP-02599",
+  "created_at": "2026-09-16T11:24:14",
+  "status": "open",
+  "text": "Urgent!! pure aluminium ingots required, 2980 MT, CIF Pretoria. Only CE certified suppliers. Target price USD 2442.38 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0321",
+  "buyer_company_id": "CMP-00894",
+  "created_at": "2026-04-23T05:12:39",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for CTC black tea bulk qty 29,270 kgs delivery LKCMB (CFR). ISO 22000 and Kosher certification required. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0322",
+  "buyer_company_id": "CMP-02188",
+  "created_at": "2026-08-20T09:01:41",
+  "status": "closed",
+  "text": "Hello, our company imports auto spare parts into Germany. We need 10,560 KG. CIF Port of Hamburg. Suppliers with export experience to Germany preferred."
+ },
+ {
+  "rfq_id": "RFQ-0323",
+  "buyer_company_id": "CMP-02250",
+  "created_at": "2025-10-26T05:14:05",
+  "status": "open",
+  "text": "Need house wiring cables 45910 KG CIF Penang Port. One-time order. ISO-9001 certification required. Origin preferred: China, Vietnam. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0324",
+  "buyer_company_id": "CMP-01081",
+  "created_at": "2026-09-03T22:06:47",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for marble slabs cut to size qty 980 sqm delivery Chicago (DAP). Do not offer Turkey origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0325",
+  "buyer_company_id": "CMP-01696",
+  "created_at": "2026-03-28T19:52:52",
+  "status": "awarded",
+  "text": "Urgent!! plastic toys required, 21,200 pieces, CFR Cologne. Shipment within 30 days. Prefer China or Vietnam origin. Indonesia origin not acceptable."
+ },
+ {
+  "rfq_id": "RFQ-0326",
+  "buyer_company_id": "CMP-02754",
+  "created_at": "2026-03-24T01:16:57",
+  "status": "closed",
+  "text": "Hello, our company imports HDPE pipe grade PE100 into United Kingdom. We need 1040 MTs. Monthly requirement. CIF Felixstowe. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0327",
+  "buyer_company_id": "CMP-01757",
+  "created_at": "2026-01-14T06:56:34",
+  "status": "open",
+  "text": "Need frozen headless shell-on vannamei 11360 kg DAP GBFXT. Origin preferred: Vietnam, Bangladesh. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0328",
+  "buyer_company_id": "CMP-01495",
+  "created_at": "2025-12-12T07:47:05",
+  "status": "expired",
+  "text": "We need two items: 1) PU handbags - 8,040 pcs 2) leather loafers PU sole - 27790 pairs. Both DAP Italy. Supplier must have BSCI certified and iso9001. Origin preferred: India, Vietnam. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0329",
+  "buyer_company_id": "CMP-01691",
+  "created_at": "2025-12-23T01:00:11",
+  "status": "expired",
+  "text": "Need PE garbage bags 8480 kg CIF Bradford. Monthly requirement. Supplier must have brcgs packaging. No Turkey origin please. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0330",
+  "buyer_company_id": "CMP-04888",
+  "created_at": "2026-05-14T06:56:19",
+  "status": "awarded",
+  "text": "Requirement: canvas tote bags\nQty - 37,460 pieces\nPort - Port of Houston\nTerms - CFR\nTarget price USD 16.8 per PCS.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0331",
+  "buyer_company_id": "CMP-03455",
+  "created_at": "2026-01-15T15:21:34",
+  "status": "open",
+  "text": "We are looking for PE garbage bags. Quantity: 43110 KG. Delivery CIF Felixstowe. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0332",
+  "buyer_company_id": "CMP-02305",
+  "created_at": "2026-10-06T08:21:58",
+  "status": "open",
+  "text": "Requirement: azithromycin tablets\nQty - 2960 kgs\nPort - Colombo Port\nTerms - CIP\nTarget price USD 80.7 per KG.\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0333",
+  "buyer_company_id": "CMP-02132",
+  "created_at": "2026-05-15T13:54:07",
+  "status": "expired",
+  "text": "Requirement: TBR tyres\nQty - 2,220 units\nPort - United Kingdom\nTerms - CIF\nCerts - ISO-9001 certification required.\nTarget price USD 249.47 per PCS.\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0334",
+  "buyer_company_id": "CMP-00502",
+  "created_at": "2026-01-10T20:29:36",
+  "status": "awarded",
+  "text": "We need two items: 1) corrugated shipping boxes - 201,820 pieces 2) PE garbage bags - 35080 KG. Both DAP Dammam. Target price USD 1.01 per PCS. Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0335",
+  "buyer_company_id": "CMP-04700",
+  "created_at": "2026-04-10T20:20:02",
+  "status": "closed",
+  "text": "Need robusta green coffee beans 5 x 40ft FCL CFR Long Beach. Quarterly contract. Supplier must have Halal. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0336",
+  "buyer_company_id": "CMP-01168",
+  "created_at": "2025-11-20T10:04:40",
+  "status": "awarded",
+  "text": "We are looking for leather loafers PU sole. Quantity: 8,160 prs. Delivery CIF Hamburg. Supplier must have SEDEX and FSC certified. Origin preferred: Vietnam, India. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0337",
+  "buyer_company_id": "CMP-01596",
+  "created_at": "2026-06-18T15:01:53",
+  "status": "open",
+  "text": "Requirement: cut and polished natural diamonds\nQty - 210 carats\nPort - Italy\nTerms - CIF\nCerts - Supplier must have BIS Hallmark.\nOrigin - Origin preferred: India, United Arab Emirates.\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0338",
+  "buyer_company_id": "CMP-03748",
+  "created_at": "2026-07-28T05:13:47",
+  "status": "closed",
+  "text": "Hello, our company imports primary aluminium ingots P1020 into Malaysia. We need 5 x 40ft FCL. One-time order. CIF Pasir Gudang. Only API 5L certified suppliers. Suppliers with export experience to Malaysia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0339",
+  "buyer_company_id": "CMP-00957",
+  "created_at": "2026-06-20T05:51:44",
+  "status": "open",
+  "text": "We are looking for portland cement in 50kg bags. Quantity: 22760 MT. Delivery CIF Kenya. Supplier must have bis. Origin preferred: Turkey, India. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0340",
+  "buyer_company_id": "CMP-01362",
+  "created_at": "2026-03-16T19:37:14",
+  "status": "awarded",
+  "text": "Hello, our company imports halal frozen boneless beef into Vietnam. We need 65 MT. Quarterly contract. CIF Vietnam. Suppliers with export experience to Vietnam preferred."
+ },
+ {
+  "rfq_id": "RFQ-0341",
+  "buyer_company_id": "CMP-03466",
+  "created_at": "2026-05-09T07:14:44",
+  "status": "expired",
+  "text": "Hello, our company imports palm olein CP10 into Pakistan. We need 3810 metric tons. Monthly requirement. CIF Pakistan. Origin preferred: Malaysia, Indonesia. No China origin please. Suppliers with export experience to Pakistan preferred."
+ },
+ {
+  "rfq_id": "RFQ-0342",
+  "buyer_company_id": "CMP-02937",
+  "created_at": "2025-12-14T15:02:48",
+  "status": "expired",
+  "text": "Need cotton terry bath towels 16,320 kg DAP United States. One-time order. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0343",
+  "buyer_company_id": "CMP-04007",
+  "created_at": "2026-06-03T20:07:54",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for disc brake rotors qty 6010 kg delivery Abu Dhabi (CIF). Supplier must have ISO 9001:2015. Origin preferred: India, Turkey. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0344",
+  "buyer_company_id": "CMP-00407",
+  "created_at": "2026-07-30T11:15:22",
+  "status": "expired",
+  "text": "We are looking for black pepper 550 GL. Quantity: 210 MTs. Delivery CIP SAJED. Origin preferred: India, Vietnam. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0345",
+  "buyer_company_id": "CMP-03731",
+  "created_at": "2026-01-12T00:49:01",
+  "status": "awarded",
+  "text": "Urgent!! sawn marble slabs required, 2770 square meters, CIP Pasir Gudang. Need by April 2026. Only bis certified suppliers."
+ },
+ {
+  "rfq_id": "RFQ-0346",
+  "buyer_company_id": "CMP-03636",
+  "created_at": "2025-11-18T08:47:16",
+  "status": "awarded",
+  "text": "Need stainless steel cookware set 9,700 KG DAP Sharjah. Quarterly contract. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0347",
+  "buyer_company_id": "CMP-03112",
+  "created_at": "2026-02-24T03:12:15",
+  "status": "awarded",
+  "text": "Urgent!! stainless steel pressure cooker required, 29080 kg, CFR Los Angeles. No China origin please."
+ },
+ {
+  "rfq_id": "RFQ-0348",
+  "buyer_company_id": "CMP-04785",
+  "created_at": "2025-10-26T17:12:59",
+  "status": "awarded",
+  "text": "Need long grain white rice 230 MTs CIP Birmingham. One-time order. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0349",
+  "buyer_company_id": "CMP-04360",
+  "created_at": "2026-10-06T10:07:02",
+  "status": "open",
+  "text": "We are looking for cotton terry kitchen towels. Quantity: 12400 kgs. Delivery CFR Dubai. Pakistan origin not acceptable. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0350",
+  "buyer_company_id": "CMP-01497",
+  "created_at": "2025-11-27T12:02:50",
+  "status": "closed",
+  "text": "Requirement: PET chips IV 0.80\nQty - 830 MT\nPort - Dubai (Jebel Ali)\nTerms - DAP\nShipment: Need by January 2026."
+ },
+ {
+  "rfq_id": "RFQ-0351",
+  "buyer_company_id": "CMP-01956",
+  "created_at": "2026-03-09T22:30:49",
+  "status": "closed",
+  "text": "Hello, our company imports leather handbags into United States. We need 2130 pcs. Trial order first, then regular monthly. DAP Los Angeles. Suppliers with export experience to United States preferred."
+ },
+ {
+  "rfq_id": "RFQ-0352",
+  "buyer_company_id": "CMP-02224",
+  "created_at": "2026-07-27T17:46:52",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for HRPO coils qty 4120 tons delivery Abu Dhabi Khalifa Port (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0353",
+  "buyer_company_id": "CMP-01972",
+  "created_at": "2026-08-11T14:10:04",
+  "status": "awarded",
+  "text": "Need BOP black tea in 50 kg sacks 68060 KG CIF Sokhna. One-time order. Do not offer Turkey origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0354",
+  "buyer_company_id": "CMP-00526",
+  "created_at": "2026-06-18T23:55:11",
+  "status": "open",
+  "text": "Need white crystal sugar S30 750 MT CIF SAJED. Trial order first, then regular monthly. Origin preferred: Brazil, India. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0355",
+  "buyer_company_id": "CMP-00584",
+  "created_at": "2025-10-07T17:48:20",
+  "status": "expired",
+  "text": "Requirement: frozen northern prawns\nQty - 8,780 kg\nPort - Chicago\nTerms - CIF\nCerts - Only FSSC22000 certified suppliers.\nTarget price USD 12.91 per KG.\nShipment: Need by December 2025."
+ },
+ {
+  "rfq_id": "RFQ-0356",
+  "buyer_company_id": "CMP-04584",
+  "created_at": "2026-08-20T22:46:48",
+  "status": "awarded",
+  "text": "Urgent!! OPC 42.5 cement required, 10,160 tons, CFR Sharjah Port. Shipment within 30 days. Origin preferred: Vietnam, Turkey."
+ },
+ {
+  "rfq_id": "RFQ-0357",
+  "buyer_company_id": "CMP-03636",
+  "created_at": "2026-04-07T20:46:10",
+  "status": "closed",
+  "text": "Need hot rolled pickled and oiled coils 2.5mm 250 metric tons CFR Dubai (Jebel Ali). Monthly requirement. Supplier must have ISO 9001 and BIS. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0358",
+  "buyer_company_id": "CMP-01678",
+  "created_at": "2026-03-13T14:50:53",
+  "status": "open",
+  "text": "Urgent!! azithromycin tablets required, 430 kgs, CIF KEMBA. Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0359",
+  "buyer_company_id": "CMP-04874",
+  "created_at": "2026-08-01T10:55:20",
+  "status": "closed",
+  "text": "Need brown raw cane sugar 5170 MT CIF Sokhna. Monthly requirement. Only FSSC 22000 certified suppliers. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0360",
+  "buyer_company_id": "CMP-01850",
+  "created_at": "2025-11-08T12:08:58",
+  "status": "awarded",
+  "text": "Need LDPE virgin granules film grade 11 x 40ft FCL CIF VNSGN. Quarterly contract. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0361",
+  "buyer_company_id": "CMP-03684",
+  "created_at": "2025-12-12T14:17:11",
+  "status": "expired",
+  "text": "Need A1 super broken rice 1060 MT CIP Riyadh. Quarterly contract. Only halal and ISO 22000 certified suppliers. Vietnam origin not acceptable. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0362",
+  "buyer_company_id": "CMP-04967",
+  "created_at": "2026-06-12T02:39:34",
+  "status": "closed",
+  "text": "Urgent!! sawn marble slabs required, 6,980 m2, CIF Jebel Ali. Need by August 2026. Target price USD 42.74 per SQM."
+ },
+ {
+  "rfq_id": "RFQ-0363",
+  "buyer_company_id": "CMP-00547",
+  "created_at": "2026-10-09T21:02:13",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for wooden bedside tables qty 1020 pieces delivery Jebel Ali (CIP). Only BSCI certified suppliers. Prefer Malaysia or Indonesia origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0364",
+  "buyer_company_id": "CMP-02054",
+  "created_at": "2026-02-28T00:27:41",
+  "status": "awarded",
+  "text": "Need HDPE pipe grade PE100 390 MT DAP AEJEA. Trial order first, then regular monthly. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0365",
+  "buyer_company_id": "CMP-04489",
+  "created_at": "2026-06-09T01:05:57",
+  "status": "expired",
+  "text": "Need truck spare parts 16,720 KG CFR EGALY. One-time order. dot and e-mark certification required. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0366",
+  "buyer_company_id": "CMP-04048",
+  "created_at": "2026-06-10T05:27:36",
+  "status": "expired",
+  "text": "Urgent!! atorvastatin tablets required, 4040 kgs, CIF Johannesburg. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0367",
+  "buyer_company_id": "CMP-02135",
+  "created_at": "2026-02-28T18:18:57",
+  "status": "awarded",
+  "text": "We are looking for truck tyres. Quantity: 460 units. Delivery CFR Khalifa Port. e-mark and DOT certification required. Target price USD 324.68 per PCS. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0368",
+  "buyer_company_id": "CMP-03295",
+  "created_at": "2026-05-12T09:40:06",
+  "status": "closed",
+  "text": "Need battery chargers 3,210 pieces CFR Chicago. Origin preferred: India, Vietnam. No Pakistan origin please. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0369",
+  "buyer_company_id": "CMP-01882",
+  "created_at": "2025-11-11T17:40:20",
+  "status": "awarded",
+  "text": "Requirement: car spare parts\nQty - 39080 kg\nPort - Khalifa Port\nTerms - DAP\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0370",
+  "buyer_company_id": "CMP-02056",
+  "created_at": "2025-10-27T20:27:48",
+  "status": "open",
+  "text": "We are looking for corrugated shipping boxes. Quantity: 192040 pieces. Delivery CIF London. FSC certification required. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0371",
+  "buyer_company_id": "CMP-02959",
+  "created_at": "2026-09-15T00:48:06",
+  "status": "closed",
+  "text": "Requirement: notebook computers\nQty - 7,610 pieces\nPort - Jiddah\nTerms - CIF"
+ },
+ {
+  "rfq_id": "RFQ-0372",
+  "buyer_company_id": "CMP-01129",
+  "created_at": "2026-02-13T00:52:23",
+  "status": "expired",
+  "text": "We are looking for ICUMSA 45 sugar in 50kg bags. Quantity: 10 x 20ft FCL. Delivery CIF Jebel Ali. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0373",
+  "buyer_company_id": "CMP-03177",
+  "created_at": "2026-03-01T13:46:24",
+  "status": "open",
+  "text": "Hello, our company imports black tea bags into United Kingdom. We need 20980 kg. Monthly requirement. CFR Southampton. Supplier must have ISO 22000. Prefer Sri Lanka or Kenya origin. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0374",
+  "buyer_company_id": "CMP-03995",
+  "created_at": "2026-05-18T08:12:21",
+  "status": "awarded",
+  "text": "Need GI pipes 2570 metric tons CIF King Abdulaziz Port. Quarterly contract. Prefer India or Vietnam origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0375",
+  "buyer_company_id": "CMP-01553",
+  "created_at": "2026-10-04T23:23:35",
+  "status": "open",
+  "text": "Requirement: pickled HR coil\nQty - 2,830 MT\nPort - SAJED\nTerms - CIP\nCerts - CE and ISO 14001 certification required."
+ },
+ {
+  "rfq_id": "RFQ-0376",
+  "buyer_company_id": "CMP-03198",
+  "created_at": "2025-11-28T19:23:54",
+  "status": "expired",
+  "text": "We are looking for robusta screen 18 green coffee. Quantity: 12 x 40ft FCL. Delivery CIP DEHAM. Target price USD 6062.65 per MT. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0377",
+  "buyer_company_id": "CMP-03585",
+  "created_at": "2026-01-16T06:21:00",
+  "status": "closed",
+  "text": "We are looking for LT distribution panels. Quantity: 290 pieces. Delivery CIF Port of Durban. Only UL certified suppliers. Target price USD 3886.97 per PCS. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0378",
+  "buyer_company_id": "CMP-01239",
+  "created_at": "2026-07-06T20:03:57",
+  "status": "awarded",
+  "text": "Requirement: cut and polished natural diamonds\nQty - 710 carats\nPort - LA/Long Beach\nTerms - CFR\nOrigin - Origin preferred: India, United Arab Emirates.\nTarget price USD 683.93 per CT.\nShipment: Need by August 2026."
+ },
+ {
+  "rfq_id": "RFQ-0379",
+  "buyer_company_id": "CMP-03156",
+  "created_at": "2026-09-22T07:51:02",
+  "status": "open",
+  "text": "We are looking for non basmati rice. Quantity: 2,760 metric tons. Delivery CIF Dammam Port. Prefer Vietnam or Pakistan origin. No India origin please. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0380",
+  "buyer_company_id": "CMP-01459",
+  "created_at": "2026-08-10T09:10:33",
+  "status": "closed",
+  "text": "We are looking for brake shoes. Quantity: 12,660 kg. Delivery DAP Miami. Only ECE R90 certified suppliers. Prefer India or Germany origin. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0381",
+  "buyer_company_id": "CMP-04345",
+  "created_at": "2026-01-30T16:14:48",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for brake calipers qty 18730 kgs delivery Jeddah (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0382",
+  "buyer_company_id": "CMP-04662",
+  "created_at": "2026-05-14T00:42:17",
+  "status": "awarded",
+  "text": "Requirement: LDPE zip lock bags\nQty - 12700 kgs\nPort - Port of Houston\nTerms - CFR\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0383",
+  "buyer_company_id": "CMP-03305",
+  "created_at": "2025-12-17T06:31:31",
+  "status": "awarded",
+  "text": "Requirement: LDPE zip lock bags\nQty - 13,870 kg\nPort - Gqeberha\nTerms - DAP\nShipment: Need by February 2026."
+ },
+ {
+  "rfq_id": "RFQ-0384",
+  "buyer_company_id": "CMP-02459",
+  "created_at": "2026-02-13T15:17:37",
+  "status": "awarded",
+  "text": "Need Ne 30/1 combed compact cotton yarn 28,080 kgs CIF Tianjin. Trial order first, then regular monthly. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0385",
+  "buyer_company_id": "CMP-00334",
+  "created_at": "2026-04-19T11:45:31",
+  "status": "open",
+  "text": "Urgent!! girls cotton shorts required, 58,710 units, CFR DEHAM. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0386",
+  "buyer_company_id": "CMP-04024",
+  "created_at": "2026-06-19T19:27:19",
+  "status": "awarded",
+  "text": "Need passenger car tyres 1680 pieces DAP Jebel Ali. Monthly requirement. Only ISO 9001:2015 and IATF16949:2016 certified suppliers. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0387",
+  "buyer_company_id": "CMP-02227",
+  "created_at": "2026-03-22T03:12:57",
+  "status": "closed",
+  "text": "We need two items: 1) primary aluminium ingots P1020 - 130 MT 2) hot rolled steel coils 2mm - 2,830 tons. Both CIF Sharjah Port. Need by April 2026."
+ },
+ {
+  "rfq_id": "RFQ-0388",
+  "buyer_company_id": "CMP-03585",
+  "created_at": "2025-11-22T19:39:21",
+  "status": "open",
+  "text": "Urgent!! PLC control panels required, 120 pieces, CIF Port of Durban. Target price USD 3751.78 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0389",
+  "buyer_company_id": "CMP-04499",
+  "created_at": "2026-01-25T09:56:13",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for unroasted coffee beans qty 350 MTs delivery Jebel Ali (CIF). Supplier must have fda registered. Prefer Vietnam or Kenya origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0390",
+  "buyer_company_id": "CMP-04163",
+  "created_at": "2026-09-13T04:33:58",
+  "status": "expired",
+  "text": "Requirement: radial truck tires\nQty - 1660 pcs\nPort - KEMBA\nTerms - CIF\nCerts - Only ECE R90 and DOT certified suppliers.\nOrigin - Prefer Vietnam or Indonesia origin.\nTarget price USD 230.72 per PCS.\nShipment: Need by October 2026."
+ },
+ {
+  "rfq_id": "RFQ-0391",
+  "buyer_company_id": "CMP-02366",
+  "created_at": "2026-08-14T14:56:33",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for PET chips IV 0.80 qty 1350 tons delivery Ajman (DAP). Prefer Indonesia or China origin. No Pakistan origin please. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0392",
+  "buyer_company_id": "CMP-04006",
+  "created_at": "2026-04-17T06:56:39",
+  "status": "closed",
+  "text": "We are looking for 40s combed cotton yarn. Quantity: 17430 kgs. Delivery CIF Chittagong Port. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0393",
+  "buyer_company_id": "CMP-02175",
+  "created_at": "2025-10-30T20:18:29",
+  "status": "expired",
+  "text": "Requirement: truck spare parts\nQty - 6100 KG\nPort - LA\nTerms - CIF\nCerts - IATF16949:2016 certification required.\nOrigin - Turkey origin not acceptable."
+ },
+ {
+  "rfq_id": "RFQ-0394",
+  "buyer_company_id": "CMP-01086",
+  "created_at": "2026-06-30T07:36:19",
+  "status": "expired",
+  "text": "Urgent!! leather clutch bags required, 8320 pieces, CFR Stuttgart. Need shipment in 4-6 weeks. Origin preferred: Italy, Vietnam."
+ },
+ {
+  "rfq_id": "RFQ-0395",
+  "buyer_company_id": "CMP-01243",
+  "created_at": "2026-05-26T09:38:09",
+  "status": "expired",
+  "text": "We are looking for atorvastatin tablets. Quantity: 1600 KG. Delivery CIF USNYC. Target price USD 74.73 per KG. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0396",
+  "buyer_company_id": "CMP-00013",
+  "created_at": "2026-05-08T02:48:05",
+  "status": "awarded",
+  "text": "We are looking for travertine slabs. Quantity: 7270 sqm. Delivery CFR Colombo. Origin preferred: Italy, Turkey. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0397",
+  "buyer_company_id": "CMP-02526",
+  "created_at": "2026-04-28T04:06:50",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for ERW steel pipes qty 5 x 40ft FCL delivery Ain Sokhna (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0398",
+  "buyer_company_id": "CMP-04202",
+  "created_at": "2025-11-04T06:46:00",
+  "status": "expired",
+  "text": "Requirement: ceramic floor tiles\nQty - 8,640 square meters\nPort - Jebel Ali Port\nTerms - CIP\nOrigin - Origin preferred: India, China. Turkey origin not acceptable.\nShipment: Need by January 2026."
+ },
+ {
+  "rfq_id": "RFQ-0399",
+  "buyer_company_id": "CMP-04466",
+  "created_at": "2026-04-17T09:11:01",
+  "status": "expired",
+  "text": "Urgent!! disc brake rotors required, 47,690 kgs, CIF El Dekheila."
+ },
+ {
+  "rfq_id": "RFQ-0400",
+  "buyer_company_id": "CMP-00797",
+  "created_at": "2026-08-27T05:29:28",
+  "status": "expired",
+  "text": "Need polyethylene carry bags 16910 kg CIF South Africa. Monthly requirement. FDA food grade and ISO 9001:2015 certification required. China origin not acceptable. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0401",
+  "buyer_company_id": "CMP-03242",
+  "created_at": "2026-08-27T03:55:12",
+  "status": "awarded",
+  "text": "Requirement: polished diamonds\nQty - 1,810 carats\nPort - Chicago\nTerms - CFR\nTarget price USD 1488.75 per CT.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0402",
+  "buyer_company_id": "CMP-02968",
+  "created_at": "2025-11-05T23:56:20",
+  "status": "awarded",
+  "text": "Hello, our company imports split red lentils into United Arab Emirates. We need 7 x 20ft FCL. Monthly requirement. CIF Abu Dhabi Khalifa Port. Only ISO 22000 certified suppliers. Origin preferred: United States, Turkey. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0403",
+  "buyer_company_id": "CMP-04301",
+  "created_at": "2026-05-09T15:02:19",
+  "status": "closed",
+  "text": "We are looking for women's cotton trousers. Quantity: 57340 units. Delivery CFR Los Angeles. Origin preferred: India, China. Do not offer Vietnam origin. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0404",
+  "buyer_company_id": "CMP-01137",
+  "created_at": "2026-03-15T03:19:57",
+  "status": "awarded",
+  "text": "Hello, our company imports dried polished turmeric fingers into United Kingdom. We need 180 MT. One-time order. CIF GBFXT. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0405",
+  "buyer_company_id": "CMP-00843",
+  "created_at": "2026-01-11T19:20:14",
+  "status": "closed",
+  "text": "Need frozen vannamei shrimp 23,850 kg CIP Hambantota Port. Monthly requirement. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0406",
+  "buyer_company_id": "CMP-04938",
+  "created_at": "2026-02-15T05:01:58",
+  "status": "expired",
+  "text": "Hello, our company imports industrial rectifiers into Saudi Arabia. We need 3,310 units. One-time order. CIF King Abdulaziz Port. Suppliers with export experience to Saudi Arabia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0407",
+  "buyer_company_id": "CMP-03757",
+  "created_at": "2026-10-03T19:28:54",
+  "status": "open",
+  "text": "Need turmeric fingers 77 tons CIF Jubail. Quarterly contract. No India origin please. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0408",
+  "buyer_company_id": "CMP-04675",
+  "created_at": "2025-12-23T11:58:59",
+  "status": "open",
+  "text": "We need two items: 1) SS 304 welded tubes - 3 x 20ft FCL 2) pickled HR coil - 3,860 MTs. Both DAP Jebel Ali. Supplier must have API 5L and ISO 14001. Prefer China or Germany origin. Target price USD 2626.53 per MT. Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0409",
+  "buyer_company_id": "CMP-00116",
+  "created_at": "2026-01-11T13:44:45",
+  "status": "awarded",
+  "text": "Requirement: raw cane sugar ICUMSA 600-1200\nQty - 1,290 metric tons\nPort - Chittagong\nTerms - DAP\nCerts - Supplier must have FDA Registered and haccp."
+ },
+ {
+  "rfq_id": "RFQ-0410",
+  "buyer_company_id": "CMP-00337",
+  "created_at": "2026-05-30T14:23:56",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for RC toy cars qty 9720 pieces delivery NYC (CIF). Only BSCI and LWG certified suppliers. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0411",
+  "buyer_company_id": "CMP-01964",
+  "created_at": "2026-09-12T16:39:52",
+  "status": "expired",
+  "text": "Requirement: metformin tablets\nQty - 13640 kg\nPort - Colombo Port\nTerms - CIF\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0412",
+  "buyer_company_id": "CMP-03277",
+  "created_at": "2026-07-04T20:58:33",
+  "status": "closed",
+  "text": "We need two items: 1) whole black pepper 500 GL ASTA - 140 MT 2) turmeric powder 3% curcumin - 12 x 20ft FCL. Both CIF Khalid Port. Target price USD 6398.07 per MT. Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0413",
+  "buyer_company_id": "CMP-02118",
+  "created_at": "2025-11-29T11:45:10",
+  "status": "expired",
+  "text": "Hello, our company imports herbal bath soap into United Arab Emirates. We need 15,750 kgs. Monthly requirement. CIF Dubai (Jebel Ali). Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0414",
+  "buyer_company_id": "CMP-01893",
+  "created_at": "2026-08-29T05:01:13",
+  "status": "closed",
+  "text": "Hello, our company imports refined palm oil into India. We need 3,630 MTs. Quarterly contract. DAP Madras Port. Suppliers with export experience to India preferred."
+ },
+ {
+  "rfq_id": "RFQ-0415",
+  "buyer_company_id": "CMP-02188",
+  "created_at": "2026-01-17T12:23:13",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for auto spare parts qty 10740 KG delivery DEHAM (CIF). Supplier must have DOT and IATF16949:2016. Prefer China or Turkey origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0416",
+  "buyer_company_id": "CMP-01805",
+  "created_at": "2026-10-04T02:39:02",
+  "status": "open",
+  "text": "We need two items: 1) 5 ply corrugated boxes - 34220 pcs 2) HDPE shopping bags - 10,350 kg. Both CIP Khalid Port. No Pakistan origin please."
+ },
+ {
+  "rfq_id": "RFQ-0417",
+  "buyer_company_id": "CMP-01741",
+  "created_at": "2025-11-25T03:08:58",
+  "status": "open",
+  "text": "Requirement: mango wood sideboards\nQty - 560 pcs\nPort - Jeddah Islamic Port\nTerms - CIF\nCerts - LWG certification required."
+ },
+ {
+  "rfq_id": "RFQ-0418",
+  "buyer_company_id": "CMP-01421",
+  "created_at": "2026-09-21T05:40:02",
+  "status": "open",
+  "text": "Requirement: frozen vannamei shrimp\nQty - 14,920 KG\nPort - ZADUR\nTerms - CIF\nOrigin - Prefer Vietnam or Bangladesh origin.\nTarget price USD 9.86 per KG.\nShipment: Need by December 2026."
+ },
+ {
+  "rfq_id": "RFQ-0419",
+  "buyer_company_id": "CMP-04535",
+  "created_at": "2026-05-30T20:13:44",
+  "status": "awarded",
+  "text": "Need electrical control panels 20 pcs DAP LKCMB. Trial order first, then regular monthly. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0420",
+  "buyer_company_id": "CMP-03003",
+  "created_at": "2026-03-20T21:20:07",
+  "status": "awarded",
+  "text": "Hello, our company imports crude palm oil into India. We need 11 x 40ft FCL. Monthly requirement. CFR Nhava Sheva. Supplier must have FSSC 22000. No Malaysia origin please. Suppliers with export experience to India preferred."
+ },
+ {
+  "rfq_id": "RFQ-0421",
+  "buyer_company_id": "CMP-00502",
+  "created_at": "2026-05-30T10:15:12",
+  "status": "expired",
+  "text": "Requirement: corrugated cartons\nQty - 68650 pcs\nPort - Dammam\nTerms - DAP\nOrigin - Prefer Vietnam or China origin."
+ },
+ {
+  "rfq_id": "RFQ-0422",
+  "buyer_company_id": "CMP-03199",
+  "created_at": "2026-02-25T14:20:17",
+  "status": "expired",
+  "text": "We are looking for SS 316L welded pipes. Quantity: 300 metric tons. Delivery CFR Jebel Ali. Only CE certified suppliers. Origin preferred: Italy, India. Target price USD 1952.76 per MT. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0423",
+  "buyer_company_id": "CMP-03045",
+  "created_at": "2026-05-01T22:44:17",
+  "status": "closed",
+  "text": "We need two items: 1) polyester sublimation tees - 29,540 pcs 2) 300 TC cotton pillow covers - 26,350 units. Both DAP London Gateway. Supplier must have OEKOTEX Std 100. Target price USD 1.76 per PCS. Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0424",
+  "buyer_company_id": "CMP-04280",
+  "created_at": "2026-07-27T01:24:47",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for low density polyethylene qty 2 x 20ft FCL delivery Sialkot (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0425",
+  "buyer_company_id": "CMP-00452",
+  "created_at": "2026-05-09T10:53:56",
+  "status": "expired",
+  "text": "Need refined white sugar ICUMSA 45 3,090 MTs CIF Port Said. Quarterly contract. Supplier must have FDA Registered certified and Kosher. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0426",
+  "buyer_company_id": "CMP-00069",
+  "created_at": "2026-02-17T04:44:35",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for IR64 parboiled rice 5% broken qty 470 MT delivery Mombasa (CIF). HACCP certification required. No Turkey origin please. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0427",
+  "buyer_company_id": "CMP-04489",
+  "created_at": "2026-08-10T12:04:20",
+  "status": "awarded",
+  "text": "We are looking for disc brake rotors. Quantity: 43,240 KG. Delivery CIF Egypt. Supplier must have ISO 9001:2015 and E-Mark. Target price USD 7.88 per KG. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0428",
+  "buyer_company_id": "CMP-04330",
+  "created_at": "2026-08-24T00:22:08",
+  "status": "open",
+  "text": "Hello, our company imports genuine leather tote bags into United Kingdom. We need 7820 units. One-time order. CFR Southampton. Only BSCI and EN71 certified suppliers. Italy origin not acceptable. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0429",
+  "buyer_company_id": "CMP-00609",
+  "created_at": "2026-03-01T05:59:03",
+  "status": "awarded",
+  "text": "We need two items: 1) GVT tiles 800x1600 - 3,950 square meters 2) ceramic floor tiles - 9,860 sqm. Both CIF Klang. Need by April 2026."
+ },
+ {
+  "rfq_id": "RFQ-0430",
+  "buyer_company_id": "CMP-02238",
+  "created_at": "2026-09-27T03:44:27",
+  "status": "open",
+  "text": "Hello, our company imports power inverters into South Africa. We need 2620 pieces. One-time order. CIP Port of Durban. Suppliers with export experience to South Africa preferred."
+ },
+ {
+  "rfq_id": "RFQ-0431",
+  "buyer_company_id": "CMP-02597",
+  "created_at": "2026-05-28T04:30:53",
+  "status": "expired",
+  "text": "Requirement: polyethylene terephthalate bottle grade resin\nQty - 3 x 40ft FCL\nPort - Port Klang\nTerms - CIF\nCerts - Halal certification required.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0432",
+  "buyer_company_id": "CMP-00670",
+  "created_at": "2026-07-03T08:02:03",
+  "status": "open",
+  "text": "Need RBD palm oil 420 tons DAP LA. Prefer Malaysia or Indonesia origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0433",
+  "buyer_company_id": "CMP-04006",
+  "created_at": "2025-12-16T18:34:38",
+  "status": "awarded",
+  "text": "Need women's cotton palazzo pants 28,660 pieces CIF Chattogram. Monthly requirement. India origin not acceptable. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0434",
+  "buyer_company_id": "CMP-00133",
+  "created_at": "2026-05-19T15:31:38",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for unshelled cashew nuts qty 3,490 MTs delivery Abu Dhabi Khalifa Port (CIF). Only FDA Registered certified suppliers. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0435",
+  "buyer_company_id": "CMP-03476",
+  "created_at": "2026-10-05T11:23:09",
+  "status": "open",
+  "text": "We are looking for white pepper whole. Quantity: 58 tons. Delivery CIF PKKHI. Prefer Indonesia or Brazil origin. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0436",
+  "buyer_company_id": "CMP-04164",
+  "created_at": "2025-10-28T23:39:38",
+  "status": "open",
+  "text": "Urgent!! LDPE zip lock bags required, 30090 kg, CFR GBFXT. Shipment within 30 days. Target price USD 2.09 per KG."
+ },
+ {
+  "rfq_id": "RFQ-0437",
+  "buyer_company_id": "CMP-00472",
+  "created_at": "2026-06-27T16:32:36",
+  "status": "closed",
+  "text": "dear supplier, kindly provide price for black pepper 550 GL qty 72 tons delivery Bremerhaven (CIF). Supplier must have Kosher certified. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0438",
+  "buyer_company_id": "CMP-04502",
+  "created_at": "2026-01-28T14:14:38",
+  "status": "closed",
+  "text": "Requirement: women's cotton palazzo pants\nQty - 21,740 pcs\nPort - Sri Lanka\nTerms - CIF\nShipment: Need by April 2026."
+ },
+ {
+  "rfq_id": "RFQ-0439",
+  "buyer_company_id": "CMP-00609",
+  "created_at": "2026-04-03T19:58:49",
+  "status": "awarded",
+  "text": "Hello, our company imports glazed porcelain tiles into Malaysia. We need 2,310 m2. Quarterly contract. CFR Klang. Only CE and iso 14001 certified suppliers. Suppliers with export experience to Malaysia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0440",
+  "buyer_company_id": "CMP-01091",
+  "created_at": "2026-07-06T12:36:02",
+  "status": "awarded",
+  "text": "Requirement: cotton jersey t-shirts\nQty - 53,960 pieces\nPort - Atlanta\nTerms - CIF\nCerts - ISO 9001:2015 and Oeko Tex 100 certification required.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0441",
+  "buyer_company_id": "CMP-03146",
+  "created_at": "2026-05-30T04:37:08",
+  "status": "open",
+  "text": "Requirement: urea 46 fertilizer\nQty - 25620 MT\nPort - Nhava Sheva\nTerms - DAP\nCerts - Only Halal certified suppliers.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0442",
+  "buyer_company_id": "CMP-01232",
+  "created_at": "2026-07-27T17:57:49",
+  "status": "awarded",
+  "text": "Urgent!! LLDPE film grade required, 8 x 20ft FCL, CIF Tianjin Xingang. Need shipment in 4-6 weeks. No United Arab Emirates origin please. Supplier must have iso9001 and REACH."
+ },
+ {
+  "rfq_id": "RFQ-0443",
+  "buyer_company_id": "CMP-00060",
+  "created_at": "2026-06-12T18:37:02",
+  "status": "expired",
+  "text": "Requirement: auto spare parts\nQty - 6890 kg\nPort - Port of Southampton\nTerms - CIF\nOrigin - Origin preferred: Turkey, Germany. No China origin please.\nTarget price USD 6.79 per KG.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0444",
+  "buyer_company_id": "CMP-01288",
+  "created_at": "2025-11-25T00:53:07",
+  "status": "expired",
+  "text": "Requirement: beauty soap 100g\nQty - 11930 kgs\nPort - USLAX\nTerms - CIF\nCerts - ISO 14001 and gmp certification required.\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0445",
+  "buyer_company_id": "CMP-03233",
+  "created_at": "2026-03-11T16:49:05",
+  "status": "open",
+  "text": "Requirement: Ne 30/1 carded ring spun cotton yarn\nQty - 58740 KG\nPort - Bangladesh\nTerms - CFR\nOrigin - Prefer Pakistan or China origin.\nShipment: Need by April 2026."
+ },
+ {
+  "rfq_id": "RFQ-0446",
+  "buyer_company_id": "CMP-02415",
+  "created_at": "2025-12-01T01:45:54",
+  "status": "awarded",
+  "text": "Urgent!! masoor dal required, 260 tons, CFR Jebel Ali. Target price USD 609.72 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0447",
+  "buyer_company_id": "CMP-03414",
+  "created_at": "2025-11-09T05:00:26",
+  "status": "open",
+  "text": "We are looking for 100% combed ring spun cotton yarn. Quantity: 15,990 kgs. Delivery CIF Xiamen. ISO 9001:2015 certification required. No Vietnam origin please. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0448",
+  "buyer_company_id": "CMP-03025",
+  "created_at": "2026-05-15T12:56:08",
+  "status": "open",
+  "text": "Hello, our company imports robusta screen 18 green coffee into United Arab Emirates. We need 77 MT. Trial order first, then regular monthly. CIF Khalifa Port. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0449",
+  "buyer_company_id": "CMP-04950",
+  "created_at": "2025-10-06T21:42:13",
+  "status": "expired",
+  "text": "Need SS 304 welded tubes 89 MT CIF Southampton. Monthly requirement. Only ISO 9001:2015 certified suppliers. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0450",
+  "buyer_company_id": "CMP-01137",
+  "created_at": "2025-10-28T03:36:48",
+  "status": "closed",
+  "text": "Hello, our company imports turmeric fingers into United Kingdom. We need 53 metric tons. One-time order. DAP Felixstowe. Suppliers with export experience to United Kingdom preferred."
+ },
+ {
+  "rfq_id": "RFQ-0451",
+  "buyer_company_id": "CMP-03509",
+  "created_at": "2026-08-09T14:51:42",
+  "status": "closed",
+  "text": "Need printed corrugated cartons 15,080 units CFR Dubai (Jebel Ali). Monthly requirement. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0452",
+  "buyer_company_id": "CMP-00577",
+  "created_at": "2026-06-20T07:35:55",
+  "status": "awarded",
+  "text": "Requirement: PET resin bottle grade\nQty - 340 MTs\nPort - Miami\nTerms - CFR\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0453",
+  "buyer_company_id": "CMP-01327",
+  "created_at": "2025-12-29T09:11:42",
+  "status": "expired",
+  "text": "We are looking for HR coils SAE1006. Quantity: 5 x 20ft FCL. Delivery CIF SAJED. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0454",
+  "buyer_company_id": "CMP-01063",
+  "created_at": "2026-07-27T00:44:12",
+  "status": "open",
+  "text": "We are looking for marble slabs cut to size. Quantity: 5,190 square meters. Delivery CIF Mombasa. Supplier must have CE and bis. Target price USD 75.46 per SQM. Trial order first, then regular monthly. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0455",
+  "buyer_company_id": "CMP-02554",
+  "created_at": "2026-07-02T12:55:59",
+  "status": "expired",
+  "text": "Hello, our company imports monoblock centrifugal pumps into United Arab Emirates. We need 1,160 pieces. Quarterly contract. CFR Dubai (Jebel Ali). Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0456",
+  "buyer_company_id": "CMP-03976",
+  "created_at": "2026-08-15T07:11:57",
+  "status": "expired",
+  "text": "We are looking for PET chips IV 0.80. Quantity: 720 MT. Delivery CIF Newark. Target price USD 977.65 per MT. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0457",
+  "buyer_company_id": "CMP-03511",
+  "created_at": "2026-06-24T06:36:20",
+  "status": "open",
+  "text": "We are looking for sawn marble slabs. Quantity: 1,150 m2. Delivery CIF Dammam. Monthly requirement. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0458",
+  "buyer_company_id": "CMP-03295",
+  "created_at": "2026-01-01T09:21:45",
+  "status": "expired",
+  "text": "Urgent!! window air conditioners required, 4,700 pcs, CIF USLAX. Prompt shipment. Origin preferred: Turkey, Malaysia. BIS and UL certification required."
+ },
+ {
+  "rfq_id": "RFQ-0459",
+  "buyer_company_id": "CMP-04134",
+  "created_at": "2026-08-05T03:37:48",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for laptops qty 3,400 units delivery AEJEA (CFR). ce and iso9001 certification required. Origin preferred: Vietnam, China. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0460",
+  "buyer_company_id": "CMP-00324",
+  "created_at": "2026-04-30T02:18:22",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for brown raw cane sugar qty 6370 tons delivery Jubail (CIF). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0461",
+  "buyer_company_id": "CMP-03372",
+  "created_at": "2025-11-09T07:12:50",
+  "status": "open",
+  "text": "We need two items: 1) metformin tablets - 4250 KG 2) azithromycin tablets - 410 KG. Both DAP Rio Port. Supplier must have EU-GMP and iso9001. Origin preferred: India, United Kingdom. Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0462",
+  "buyer_company_id": "CMP-01360",
+  "created_at": "2025-11-04T07:31:18",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for passenger car tyres qty 7,400 pieces delivery Dammam Port (CIF). Prefer Indonesia or Turkey origin. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0463",
+  "buyer_company_id": "CMP-02084",
+  "created_at": "2026-08-17T18:09:04",
+  "status": "open",
+  "text": "Urgent!! brake calipers required, 8,160 kg, CIP Hamburg. No Turkey origin please. ECE R90 certification required."
+ },
+ {
+  "rfq_id": "RFQ-0464",
+  "buyer_company_id": "CMP-04842",
+  "created_at": "2026-09-03T19:52:05",
+  "status": "expired",
+  "text": "Need vitrified tiles 600x600 9,980 sqm CIF Colombo. Quarterly contract. Supplier must have ISO 14001 and BIS. Prefer India or Turkey origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0465",
+  "buyer_company_id": "CMP-00336",
+  "created_at": "2025-11-30T15:58:44",
+  "status": "expired",
+  "text": "Hello, our company imports frozen cold water shrimp into China. We need 32,940 kg. Trial order first, then regular monthly. CIF Shanghai. Origin preferred: India, Vietnam. Suppliers with export experience to China preferred."
+ },
+ {
+  "rfq_id": "RFQ-0466",
+  "buyer_company_id": "CMP-02888",
+  "created_at": "2026-02-06T15:57:01",
+  "status": "closed",
+  "text": "We are looking for ceftriaxone injection. Quantity: 870 KG. Delivery CIP Nakuru. Germany origin not acceptable. Target price USD 78.71 per KG. One-time order. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0467",
+  "buyer_company_id": "CMP-02446",
+  "created_at": "2026-04-18T17:34:45",
+  "status": "expired",
+  "text": "Hello, our company imports new car tires into United Arab Emirates. We need 1,390 pieces. Quarterly contract. CIF Jebel Ali Port. Only DOT certified suppliers. Prefer Indonesia or India origin. Suppliers with export experience to United Arab Emirates preferred."
+ },
+ {
+  "rfq_id": "RFQ-0468",
+  "buyer_company_id": "CMP-03601",
+  "created_at": "2026-06-29T09:44:25",
+  "status": "closed",
+  "text": "We are looking for MS round pipes. Quantity: 1010 metric tons. Delivery DAP GBFXT. Target price USD 705.87 per MT. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0469",
+  "buyer_company_id": "CMP-04877",
+  "created_at": "2026-05-23T17:58:22",
+  "status": "open",
+  "text": "Urgent!! LWP cashew pieces required, 41880 kgs, CIF Abu Dhabi. Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0470",
+  "buyer_company_id": "CMP-04113",
+  "created_at": "2026-09-25T09:39:14",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for LLDPE butene grade qty 6 x 40ft FCL delivery LA/Long Beach (CIF). REACH certification required. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0471",
+  "buyer_company_id": "CMP-04933",
+  "created_at": "2025-12-08T10:31:55",
+  "status": "expired",
+  "text": "We are looking for crude palm oil. Quantity: 4 x 40ft FCL. Delivery CIF Xiamen. Supplier must have Kosher certified. Target price USD 1104.16 per MT. Quarterly contract. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0472",
+  "buyer_company_id": "CMP-00710",
+  "created_at": "2026-07-09T13:30:49",
+  "status": "awarded",
+  "text": "We need two items: 1) kids cotton tees - 13,500 pieces 2) terry towel sets - 10,860 kgs. Both CFR Houston. Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0473",
+  "buyer_company_id": "CMP-01948",
+  "created_at": "2026-02-06T08:51:11",
+  "status": "expired",
+  "text": "Urgent!! Santos arabica green beans required, 92 MTs, DAP Mombasa. Need shipment in 4-6 weeks. Origin preferred: India, Brazil. Target price USD 5803.66 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0474",
+  "buyer_company_id": "CMP-03475",
+  "created_at": "2026-02-14T17:51:58",
+  "status": "closed",
+  "text": "Urgent!! raw white carded cotton yarn required, 23,880 kgs, CFR Port Klang. Do not offer Pakistan origin. Target price USD 3.19 per KG."
+ },
+ {
+  "rfq_id": "RFQ-0475",
+  "buyer_company_id": "CMP-01150",
+  "created_at": "2026-09-04T12:27:34",
+  "status": "closed",
+  "text": "Urgent!! leather handbags required, 460 pieces, DAP Newark. Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0476",
+  "buyer_company_id": "CMP-00797",
+  "created_at": "2026-04-04T00:54:14",
+  "status": "closed",
+  "text": "Requirement: PE garbage bags\nQty - 12500 kg\nPort - South Africa\nTerms - CIP\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0477",
+  "buyer_company_id": "CMP-03620",
+  "created_at": "2026-05-18T01:53:29",
+  "status": "closed",
+  "text": "Need multistage centrifugal pumps 1890 pieces CIP Bandung. Quarterly contract. Supplier must have bis and UL. Origin preferred: China, Italy. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0478",
+  "buyer_company_id": "CMP-00128",
+  "created_at": "2026-02-26T13:49:58",
+  "status": "open",
+  "text": "Requirement: 100% combed ring spun cotton yarn\nQty - 17,630 KG\nPort - EGALY\nTerms - CFR\nCerts - Supplier must have WRAP.\nTarget price USD 3.4 per KG.\nShipment: Shipment within 30 days."
+ },
+ {
+  "rfq_id": "RFQ-0479",
+  "buyer_company_id": "CMP-02444",
+  "created_at": "2026-01-23T12:17:45",
+  "status": "awarded",
+  "text": "Urgent!! grey portland cement required, 35210 MTs, CFR Port of Savannah."
+ },
+ {
+  "rfq_id": "RFQ-0480",
+  "buyer_company_id": "CMP-02152",
+  "created_at": "2026-07-31T11:21:57",
+  "status": "awarded",
+  "text": "Need 5 ply corrugated boxes 56,560 pcs CIF LA/Long Beach. Quarterly contract. Do not offer China origin. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0481",
+  "buyer_company_id": "CMP-02779",
+  "created_at": "2026-09-03T10:55:25",
+  "status": "open",
+  "text": "Hello, our company imports LT power cables into Germany. We need 17,100 KG. One-time order. CFR Port of Hamburg. Only RoHS certified suppliers. Do not offer Pakistan origin. Suppliers with export experience to Germany preferred."
+ },
+ {
+  "rfq_id": "RFQ-0482",
+  "buyer_company_id": "CMP-04813",
+  "created_at": "2026-05-29T11:10:53",
+  "status": "open",
+  "text": "Requirement: LDPE zip lock bags\nQty - 21060 kg\nPort - Durban\nTerms - CIF\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0483",
+  "buyer_company_id": "CMP-04054",
+  "created_at": "2026-07-15T17:22:20",
+  "status": "expired",
+  "text": "Requirement: leather shoes with rubber sole\nQty - 8,650 prs\nPort - Naples\nTerms - CIF\nOrigin - Prefer India or Brazil origin.\nShipment: Prompt shipment."
+ },
+ {
+  "rfq_id": "RFQ-0484",
+  "buyer_company_id": "CMP-01421",
+  "created_at": "2026-02-09T02:27:16",
+  "status": "closed",
+  "text": "We are looking for ICUMSA 45 sugar in 50kg bags. Quantity: 2,320 MTs. Delivery CFR Port of Durban. halal and BRCGS certification required. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0485",
+  "buyer_company_id": "CMP-02048",
+  "created_at": "2026-05-01T20:06:16",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for crude palm oil FFA 5% max qty 12 x 40ft FCL delivery Karachi (CFR). USDA Organic certification required. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0486",
+  "buyer_company_id": "CMP-02387",
+  "created_at": "2025-12-05T12:34:49",
+  "status": "open",
+  "text": "Urgent!! MCC panels required, 24 pieces, CIF Durban. No Italy origin please. Target price USD 1203.8 per PCS."
+ },
+ {
+  "rfq_id": "RFQ-0487",
+  "buyer_company_id": "CMP-00989",
+  "created_at": "2026-09-23T18:19:04",
+  "status": "open",
+  "text": "We are looking for raw white carded cotton yarn. Quantity: 48,200 kgs. Delivery DAP Bursa. Prefer China or Pakistan origin. Please send your best offer with specs and lead time."
+ },
+ {
+  "rfq_id": "RFQ-0488",
+  "buyer_company_id": "CMP-01882",
+  "created_at": "2026-07-08T10:33:04",
+  "status": "awarded",
+  "text": "Requirement: TBR tyres\nQty - 2670 pcs\nPort - Abu Dhabi Khalifa Port\nTerms - CIF\nTarget price USD 261.01 per PCS.\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0489",
+  "buyer_company_id": "CMP-00735",
+  "created_at": "2026-02-09T10:02:05",
+  "status": "closed",
+  "text": "Requirement: sawn marble slabs\nQty - 12,200 sqm\nPort - Long Beach\nTerms - CIF\nOrigin - Origin preferred: Italy, Turkey. No Pakistan origin please.\nShipment: Need by April 2026."
+ },
+ {
+  "rfq_id": "RFQ-0490",
+  "buyer_company_id": "CMP-01824",
+  "created_at": "2026-07-01T09:17:27",
+  "status": "awarded",
+  "text": "Hello, our company imports vitrified tiles 600x600 into Saudi Arabia. We need 15990 m2. Quarterly contract. CIF Jeddah. Do not offer Pakistan origin. Suppliers with export experience to Saudi Arabia preferred."
+ },
+ {
+  "rfq_id": "RFQ-0491",
+  "buyer_company_id": "CMP-00425",
+  "created_at": "2026-07-14T04:10:14",
+  "status": "closed",
+  "text": "Urgent!! pickled HR coil required, 1,020 metric tons, CIF Port of Houston. Need by September 2026. Prefer China or Turkey origin."
+ },
+ {
+  "rfq_id": "RFQ-0492",
+  "buyer_company_id": "CMP-04649",
+  "created_at": "2026-09-01T09:16:28",
+  "status": "closed",
+  "text": "Requirement: SS 304 welded tubes\nQty - 120 tons\nPort - Port of Savannah\nTerms - CFR\nCerts - iso 14001 and BIS certification required.\nOrigin - Do not offer Turkey origin.\nTarget price USD 2848.69 per MT."
+ },
+ {
+  "rfq_id": "RFQ-0493",
+  "buyer_company_id": "CMP-01882",
+  "created_at": "2026-08-12T02:36:10",
+  "status": "awarded",
+  "text": "dear supplier, kindly provide price for TBR tyres qty 3,500 pcs delivery Abu Dhabi Khalifa Port (CFR). thanks"
+ },
+ {
+  "rfq_id": "RFQ-0494",
+  "buyer_company_id": "CMP-01274",
+  "created_at": "2025-12-16T16:13:00",
+  "status": "awarded",
+  "text": "Need RC toy cars 64,700 pieces CFR Hamburg. Trial order first, then regular monthly. Origin preferred: China, Indonesia. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0495",
+  "buyer_company_id": "CMP-01004",
+  "created_at": "2025-10-31T22:22:39",
+  "status": "open",
+  "text": "Urgent!! centrifugal water pumps required, 810 units, CFR Dubai (Jebel Ali). Need shipment in 4-6 weeks. Supplier must have UL."
+ },
+ {
+  "rfq_id": "RFQ-0496",
+  "buyer_company_id": "CMP-04343",
+  "created_at": "2025-12-20T07:57:36",
+  "status": "expired",
+  "text": "Need HDPE blow moulding grade 280 metric tons CIF Da Nang Port. Origin preferred: Saudi Arabia, Malaysia. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0497",
+  "buyer_company_id": "CMP-01118",
+  "created_at": "2026-04-03T14:47:42",
+  "status": "open",
+  "text": "Requirement: marble slabs cut to size\nQty - 6180 square meters\nPort - United Kingdom\nTerms - CFR\nCerts - Only ISO-9001 and ISO 14001 certified suppliers.\nShipment: Need shipment in 4-6 weeks."
+ },
+ {
+  "rfq_id": "RFQ-0498",
+  "buyer_company_id": "CMP-03156",
+  "created_at": "2026-04-06T20:51:54",
+  "status": "expired",
+  "text": "dear supplier, kindly provide price for Santos arabica green beans qty 170 tons delivery Dammam (CIF). Supplier must have FDA Registered certified and FSSC22000. thanks"
+ },
+ {
+  "rfq_id": "RFQ-0499",
+  "buyer_company_id": "CMP-01129",
+  "created_at": "2026-06-20T10:42:09",
+  "status": "awarded",
+  "text": "Need orthodox black tea in bulk 12080 KG CIF Dubai (Jebel Ali). Monthly requirement. Halal and BRCGS certification required. pls quote"
+ },
+ {
+  "rfq_id": "RFQ-0500",
+  "buyer_company_id": "CMP-00403",
+  "created_at": "2026-09-02T00:55:27",
+  "status": "open",
+  "text": "dear supplier, kindly provide price for frozen Pandalus borealis shrimp qty 39,170 kg delivery Genova (CIF). USDA Organic and Halal certification required. thanks"
+ }
+]

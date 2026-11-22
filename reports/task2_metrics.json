@@ -1,0 +1,85 @@
+{
+  "graph_store": "neo4j",
+  "neo4j_uri": "bolt://localhost:7687",
+  "neo4j_database": "neo4j",
+  "elapsed_seconds": 20.9,
+  "entity_resolution": {
+    "pairs": 200,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "tp": 100,
+    "fp": 0,
+    "fn": 0,
+    "tn": 100,
+    "registrations": 5020,
+    "entities": 4208,
+    "cluster_size_histogram": {
+      "1": 3497,
+      "2": 610,
+      "3": 101
+    }
+  },
+  "hs_mapping": {
+    "labelled": 100,
+    "correct": 100,
+    "accuracy": 1.0,
+    "products": 5399,
+    "mapped": 5262,
+    "unmappable": 137
+  },
+  "shipment_parties": {
+    "shipments": 50173,
+    "shipper_on_platform": 30804,
+    "shipper_off_platform": 19369,
+    "consignee_on_platform": 26180,
+    "consignee_off_platform": 23993,
+    "off_platform_parties": 4224,
+    "off_platform_by_kind": {
+      "bank": 5,
+      "company": 4185,
+      "forwarder": 33,
+      "to_order": 1
+    }
+  },
+  "graph": {
+    "nodes": {
+      "Country": 19,
+      "Port": 69,
+      "Unit": 7,
+      "Certification": 31,
+      "Category": 11,
+      "HSCode": 68,
+      "Company": 8432,
+      "Registration": 5020,
+      "Product": 5399,
+      "Shipment": 50173,
+      "RFQ": 500,
+      "Interaction": 26041
+    },
+    "relationships": {
+      "HAS_REGISTRATION": 5020,
+      "LOCATED_IN": 5020,
+      "HOLDS": 4225,
+      "OFFERS": 5399,
+      "CLASSIFIED_AS": 48094,
+      "IN_CATEGORY": 68,
+      "TRADED_IN": 68,
+      "PRICED_IN": 5262,
+      "QUANTIFIED_IN": 55435,
+      "SHIPPED": 50173,
+      "CONSIGNED_TO": 50173,
+      "ORIGINATED_IN": 50173,
+      "DESTINED_FOR": 50173,
+      "LOADED_AT": 50173,
+      "DISCHARGED_AT": 50173,
+      "IN_COUNTRY": 69,
+      "SAME_BILL": 501,
+      "POSTED": 500,
+      "PERFORMED": 26041,
+      "DIRECTED_AT": 26041,
+      "ABOUT_PRODUCT": 4657,
+      "ABOUT_RFQ": 1551
+    }
+  }
+}

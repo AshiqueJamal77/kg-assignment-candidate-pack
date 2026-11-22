@@ -1,0 +1,69 @@
+hs_code,description,category,typical_unit
+020230,"Meat of bovine animals, boneless, frozen",Agriculture & Food,MT
+030616,"Cold-water shrimps and prawns (Pandalus spp., Crangon crangon), frozen",Agriculture & Food,KG
+030617,"Other shrimps and prawns, frozen",Agriculture & Food,KG
+040221,"Milk and cream in powder, fat >1.5%, not containing added sugar",Agriculture & Food,MT
+071340,"Lentils, dried, shelled, whether or not skinned or split",Agriculture & Food,MT
+080131,"Cashew nuts, fresh or dried, in shell",Agriculture & Food,MT
+080132,"Cashew nuts, fresh or dried, shelled",Agriculture & Food,KG
+090111,"Coffee, not roasted, not decaffeinated",Agriculture & Food,MT
+090121,"Coffee, roasted, not decaffeinated",Agriculture & Food,KG
+090230,"Black tea (fermented) and partly fermented tea, in immediate packings not exceeding 3 kg",Agriculture & Food,KG
+090240,"Black tea (fermented) and partly fermented tea, in immediate packings exceeding 3 kg",Agriculture & Food,KG
+090411,"Pepper of the genus Piper, neither crushed nor ground",Agriculture & Food,MT
+091030,Turmeric (curcuma),Agriculture & Food,MT
+100630,"Semi-milled or wholly milled rice, whether or not polished or glazed",Agriculture & Food,MT
+100640,Broken rice,Agriculture & Food,MT
+151110,Crude palm oil,Agriculture & Food,MT
+151190,"Palm oil and its fractions, other than crude",Agriculture & Food,MT
+170114,"Raw cane sugar, other than containing added flavouring or colouring",Agriculture & Food,MT
+170199,"Cane or beet sugar, refined, other",Agriculture & Food,MT
+252329,"Portland cement, other than white",Construction Materials,MT
+300420,"Medicaments containing other antibiotics, in measured doses or retail packing",Pharmaceuticals,KG
+300490,"Medicaments in measured doses or retail packing, other",Pharmaceuticals,KG
+310210,"Urea, whether or not in aqueous solution","Chemicals, Plastics & Personal Care",MT
+330410,Lip make-up preparations,"Chemicals, Plastics & Personal Care",PCS
+330499,"Beauty or make-up preparations and preparations for the care of the skin, other","Chemicals, Plastics & Personal Care",KG
+340111,"Soap and organic surface-active products in bars/cakes, for toilet use (including medicated)","Chemicals, Plastics & Personal Care",KG
+390110,"Polyethylene having a specific gravity of less than 0.94, in primary forms","Chemicals, Plastics & Personal Care",MT
+390120,"Polyethylene having a specific gravity of 0.94 or more, in primary forms","Chemicals, Plastics & Personal Care",MT
+390761,"Poly(ethylene terephthalate), having a viscosity number of 78 ml/g or higher","Chemicals, Plastics & Personal Care",MT
+392321,"Sacks and bags (including cones), of polymers of ethylene",Packaging,KG
+401110,"New pneumatic tyres, of rubber, of a kind used on motor cars",Automotive,PCS
+401120,"New pneumatic tyres, of rubber, of a kind used on buses or lorries",Automotive,PCS
+420221,"Handbags, with outer surface of leather or composition leather",Consumer Goods,PCS
+420222,"Handbags, with outer surface of plastic sheeting or textile materials",Consumer Goods,PCS
+481910,"Cartons, boxes and cases, of corrugated paper or paperboard",Packaging,PCS
+520512,"Cotton yarn (>=85% cotton), single, of uncombed fibres, 232.56-714.29 decitex, not put up for retail sale",Textiles & Apparel,KG
+520522,"Cotton yarn (>=85% cotton), single, of combed fibres, 232.56-714.29 decitex, not put up for retail sale",Textiles & Apparel,KG
+610910,"T-shirts, singlets and other vests, of cotton, knitted or crocheted",Textiles & Apparel,PCS
+610990,"T-shirts, singlets and other vests, of other textile materials, knitted or crocheted",Textiles & Apparel,PCS
+620342,"Men's or boys' trousers, bib and brace overalls, breeches and shorts, of cotton (not knitted)",Textiles & Apparel,PCS
+620462,"Women's or girls' trousers, bib and brace overalls, breeches and shorts, of cotton (not knitted)",Textiles & Apparel,PCS
+630231,"Bed linen of cotton, other than printed, knitted or crocheted",Textiles & Apparel,PCS
+630260,"Toilet linen and kitchen linen, of terry towelling or similar terry fabrics, of cotton",Textiles & Apparel,KG
+640399,"Footwear with outer soles of rubber/plastics and uppers of leather, not covering the ankle, other",Consumer Goods,PAIRS
+680221,"Marble, travertine and alabaster, simply cut or sawn, with a flat or even surface",Construction Materials,SQM
+690721,"Ceramic flags, paving, hearth or wall tiles, water absorption not exceeding 0.5% by weight",Construction Materials,SQM
+690722,"Ceramic flags, paving, hearth or wall tiles, water absorption >0.5% but <=10% by weight",Construction Materials,SQM
+710239,"Diamonds, non-industrial, worked (cut and polished), not mounted or set",Gems & Jewellery,CT
+711311,Articles of jewellery of silver,Gems & Jewellery,G
+711319,Articles of jewellery of precious metal other than silver (gold),Gems & Jewellery,G
+720827,"Flat-rolled iron or non-alloy steel, hot-rolled, in coils, pickled, thickness <3mm",Metals,MT
+720839,"Flat-rolled iron or non-alloy steel, width >=600mm, hot-rolled, in coils, thickness <3mm",Metals,MT
+730630,"Tubes and pipes, welded, of circular cross-section, of iron or non-alloy steel",Metals,MT
+730640,"Tubes and pipes, welded, of circular cross-section, of stainless steel",Metals,MT
+732393,"Table, kitchen or other household articles, of stainless steel",Metals,KG
+760110,"Unwrought aluminium, not alloyed",Metals,MT
+760120,Unwrought aluminium alloys,Metals,MT
+841370,"Centrifugal pumps, other",Machinery & Electrical,PCS
+841510,"Air conditioning machines, window or wall types, self-contained or split-system",Machinery & Electrical,PCS
+847130,"Portable automatic data-processing machines, weighing not more than 10 kg (laptops)",Machinery & Electrical,PCS
+850440,"Static converters (inverters, rectifiers, chargers, UPS)",Machinery & Electrical,PCS
+853710,"Boards, panels, consoles and cabinets for electric control, voltage not exceeding 1,000 V",Machinery & Electrical,PCS
+854449,"Electric conductors, for a voltage not exceeding 1,000 V, not fitted with connectors, other",Machinery & Electrical,KG
+870830,"Brakes and servo-brakes, and parts thereof, for motor vehicles",Automotive,KG
+870899,"Parts and accessories of motor vehicles, other",Automotive,KG
+940350,Wooden furniture of a kind used in the bedroom,Consumer Goods,PCS
+940360,"Wooden furniture, other",Consumer Goods,PCS
+950300,"Tricycles, scooters, dolls, puzzles and other toys",Consumer Goods,PCS

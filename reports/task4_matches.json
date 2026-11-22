@@ -1,0 +1,498 @@
+{
+  "rfqs_parsed": 500,
+  "relationship_counts": {
+    "DISCHARGE_AT": 386,
+    "DELIVER_TO": 500,
+    "REQUIRES": 274,
+    "SEEKS": 528,
+    "SEEKS_CATEGORY": 500,
+    "PREFERS_ORIGIN": 302,
+    "EXCLUDES_ORIGIN": 81
+  },
+  "relaxation": {
+    "none": 442,
+    "certificate": 46,
+    "delivery": 9,
+    "certificate, delivery": 3
+  },
+  "evaluation": {
+    "rfqs_with_a_response": 427,
+    "hit_at_10": 0.658,
+    "mrr": 0.336,
+    "responses_in_top_10": 281
+  },
+  "examples": [
+    {
+      "rfq_id": "RFQ-0007",
+      "buyer": "Gulf Star General Trading LLC",
+      "status": "closed",
+      "parsed": {
+        "product_phrase": "packaged black tea 100 g; long grain parboiled rice",
+        "quantity": 17480.0,
+        "incoterm": "CIF",
+        "target_price_usd": null,
+        "destination": "Jebel Ali Port",
+        "port": "Jebel Ali",
+        "country": "United Arab Emirates",
+        "products": [
+          {
+            "phrase": "packaged black tea 100 g",
+            "quantity": 17480.0,
+            "unit": "KG",
+            "category": "Agriculture & Food",
+            "category_method": "text",
+            "hs_code": "090230",
+            "confidence": 0.93
+          },
+          {
+            "phrase": "long grain parboiled rice",
+            "quantity": 140.0,
+            "unit": "MT",
+            "category": "Agriculture & Food",
+            "category_method": "text",
+            "hs_code": "100630",
+            "confidence": 0.93
+          }
+        ],
+        "prefers": [
+          "India",
+          "United Kingdom"
+        ],
+        "excludes": [],
+        "certifications": [],
+        "notes": [
+          "The request names more than one product. Each code that resolved is linked."
+        ]
+      },
+      "relaxed": [],
+      "candidate_count": 41,
+      "recommendations": [
+        {
+          "rank": 1,
+          "entity_id": "ENT-03938",
+          "name": "Modern Foods Impex",
+          "activity_class": "manufacturer",
+          "score": 542,
+          "export_value_usd": 15842113,
+          "explanation": "Exported HS 100630 to United Arab Emirates 20 times in the 12 months before this request. Shipments of this code originated in India."
+        },
+        {
+          "rank": 2,
+          "entity_id": "ENT-01341",
+          "name": "Prime Spices Pvt Ltd",
+          "activity_class": "manufacturer",
+          "score": 268,
+          "export_value_usd": 8802097,
+          "explanation": "Exported HS 100630 to United Arab Emirates 11 times in the 12 months before this request. Shipments of this code originated in India. Discharged at Jebel Ali on 1 of those bills."
+        },
+        {
+          "rank": 3,
+          "entity_id": "ENT-01761",
+          "name": "Kingsway Food Distributors Ltd",
+          "activity_class": "trader",
+          "score": 180,
+          "export_value_usd": 5990695,
+          "explanation": "Exported HS 100630 to United Arab Emirates 6 times in the 12 months before this request. Shipments of this code originated in India and United Kingdom. Discharged at Jebel Ali on 6 of those bills."
+        },
+        {
+          "rank": 4,
+          "entity_id": "ENT-02569",
+          "name": "Pragati Agro Pvt Ltd",
+          "activity_class": "manufacturer",
+          "score": 127,
+          "export_value_usd": 3171192,
+          "explanation": "Exported HS 100630 to United Arab Emirates 5 times in the 12 months before this request. Shipments of this code originated in India. Discharged at Jebel Ali on 4 of those bills."
+        },
+        {
+          "rank": 5,
+          "entity_id": "ENT-02868",
+          "name": "Aravali Food Products Impex",
+          "activity_class": "manufacturer",
+          "score": 113,
+          "export_value_usd": 3864312,
+          "explanation": "Exported HS 100630 to United Arab Emirates 3 times in the 12 months before this request. Shipments of this code originated in India."
+        },
+        {
+          "rank": 6,
+          "entity_id": "ENT-00393",
+          "name": "Twiga Agro Products Ltd",
+          "activity_class": "manufacturer",
+          "score": 102,
+          "export_value_usd": 2200618,
+          "explanation": "Exported HS 090230 to United Arab Emirates 5 times in the 12 months before this request. Discharged at Jebel Ali on 4 of those bills."
+        },
+        {
+          "rank": 7,
+          "entity_id": "ENT-00498",
+          "name": "Crescent Seafoods (Pvt.) Ltd.",
+          "activity_class": "manufacturer",
+          "score": 96,
+          "export_value_usd": 5806413,
+          "explanation": "Exported HS 100630 to United Arab Emirates 5 times in the 12 months before this request. Discharged at Jebel Ali on 1 of those bills."
+        },
+        {
+          "rank": 8,
+          "entity_id": "ENT-01594",
+          "name": "Sialkot Star Commodities (Pvt.) Ltd.",
+          "activity_class": "manufacturer",
+          "score": 81,
+          "export_value_usd": 4908016,
+          "explanation": "Exported HS 100630 to United Arab Emirates 5 times in the 12 months before this request. Discharged at Jebel Ali on 3 of those bills."
+        },
+        {
+          "rank": 9,
+          "entity_id": "ENT-01217",
+          "name": "Nyati Provisions Ltd",
+          "activity_class": "mixed",
+          "score": 75,
+          "export_value_usd": 3955143,
+          "explanation": "Exported HS 100630 to United Arab Emirates 3 times in the 12 months before this request. Shipments of this code originated in India. Discharged at Jebel Ali on 3 of those bills."
+        },
+        {
+          "rank": 10,
+          "entity_id": "ENT-03293",
+          "name": "Tanjung Trading Sdn Bhd",
+          "activity_class": "trader",
+          "score": 68,
+          "export_value_usd": 10274008,
+          "explanation": "Exported HS 100630 to United Arab Emirates 4 times in the 12 months before this request."
+        }
+      ]
+    },
+    {
+      "rfq_id": "RFQ-0027",
+      "buyer": "Seri Maju Trading Sdn Bhd",
+      "status": "awarded",
+      "parsed": {
+        "product_phrase": "halal frozen boneless beef",
+        "quantity": 420.0,
+        "incoterm": "CIF",
+        "target_price_usd": null,
+        "destination": "Pasir Gudang",
+        "port": "Pasir Gudang",
+        "country": "Malaysia",
+        "products": [
+          {
+            "phrase": "halal frozen boneless beef",
+            "quantity": 420.0,
+            "unit": "MT",
+            "category": "Agriculture & Food",
+            "category_method": "text",
+            "hs_code": "020230",
+            "confidence": 0.93
+          }
+        ],
+        "prefers": [
+          "Brazil",
+          "India"
+        ],
+        "excludes": [],
+        "certifications": [
+          "Halal"
+        ],
+        "notes": []
+      },
+      "relaxed": [],
+      "candidate_count": 4,
+      "recommendations": [
+        {
+          "rank": 1,
+          "entity_id": "ENT-00792",
+          "name": "Omkar Food Products LLP",
+          "activity_class": "manufacturer",
+          "score": 104,
+          "export_value_usd": 3668209,
+          "explanation": "Exported HS 020230 to Malaysia 2 times in the 12 months before this request. Shipments of this code originated in India. Discharged at Pasir Gudang on 2 of those bills. Holds Halal."
+        },
+        {
+          "rank": 2,
+          "entity_id": "ENT-00808",
+          "name": "Costa Agropecu\u00e1ria Ltda.",
+          "activity_class": "manufacturer",
+          "score": 104,
+          "export_value_usd": 3646417,
+          "explanation": "Exported HS 020230 to Malaysia 2 times in the 12 months before this request. Shipments of this code originated in Brazil. Holds Halal."
+        },
+        {
+          "rank": 3,
+          "entity_id": "ENT-01544",
+          "name": "Navkar Commodities Enterprises",
+          "activity_class": "manufacturer",
+          "score": 84,
+          "export_value_usd": 5362344,
+          "explanation": "Exported HS 020230 to Malaysia once in the 12 months before this request. Shipments of this code originated in India. Discharged at Pasir Gudang on 1 of those bills. Holds Halal."
+        },
+        {
+          "rank": 4,
+          "entity_id": "ENT-02915",
+          "name": "Shri Annapurna Agro Products Pvt Ltd",
+          "activity_class": "manufacturer",
+          "score": 72,
+          "export_value_usd": 3325367,
+          "explanation": "Exported HS 020230 to Malaysia 3 times. Shipments of this code originated in India. Holds Halal."
+        }
+      ]
+    },
+    {
+      "rfq_id": "RFQ-0052",
+      "buyer": "Rahman Group Ltd.",
+      "status": "closed",
+      "parsed": {
+        "product_phrase": "grey portland cement",
+        "quantity": 9140.0,
+        "incoterm": "DAP",
+        "target_price_usd": null,
+        "destination": "BDCGP",
+        "port": "Chattogram",
+        "country": "Bangladesh",
+        "products": [
+          {
+            "phrase": "grey portland cement",
+            "quantity": 9140.0,
+            "unit": "MT",
+            "category": "Construction Materials",
+            "category_method": "text",
+            "hs_code": "252329",
+            "confidence": 0.93
+          }
+        ],
+        "prefers": [
+          "Egypt",
+          "Turkey"
+        ],
+        "excludes": [
+          "United Arab Emirates"
+        ],
+        "certifications": [
+          "ISO 14001"
+        ],
+        "notes": []
+      },
+      "relaxed": [],
+      "candidate_count": 3,
+      "recommendations": [
+        {
+          "rank": 1,
+          "entity_id": "ENT-02757",
+          "name": "Arslan \u00c7imento San. ve Tic. A.\u015e.",
+          "activity_class": "manufacturer",
+          "score": 205,
+          "export_value_usd": 9987605,
+          "explanation": "Exported HS 252329 to Bangladesh 7 times in the 12 months before this request. Shipments of this code originated in Turkey. Discharged at Chattogram on 7 of those bills. Holds ISO 14001."
+        },
+        {
+          "rank": 2,
+          "entity_id": "ENT-02816",
+          "name": "Demir \u00c7imento San. ve Tic. Ltd. \u015eti.",
+          "activity_class": "manufacturer",
+          "score": 96,
+          "export_value_usd": 4606484,
+          "explanation": "Exported HS 252329 to Bangladesh 2 times in the 12 months before this request. Shipments of this code originated in Turkey. Discharged at Chattogram on 1 of those bills. Holds ISO 14001."
+        },
+        {
+          "rank": 3,
+          "entity_id": "ENT-03800",
+          "name": "K\u0131l\u0131\u00e7 Seramik San. ve Tic. Ltd. \u015eti.",
+          "activity_class": "manufacturer",
+          "score": 74,
+          "export_value_usd": 1675043,
+          "explanation": "Exported HS 252329 to Bangladesh 2 times in the 12 months before this request. Shipments of this code originated in Turkey. Holds ISO 14001."
+        }
+      ]
+    },
+    {
+      "rfq_id": "RFQ-0257",
+      "buyer": "Cape Point Trading (Pty) Ltd",
+      "status": "expired",
+      "parsed": {
+        "product_phrase": "passenger car tyres",
+        "quantity": 4530.0,
+        "incoterm": "CFR",
+        "target_price_usd": null,
+        "destination": "ZADUR",
+        "port": "Durban",
+        "country": "South Africa",
+        "products": [
+          {
+            "phrase": "passenger car tyres",
+            "quantity": 4530.0,
+            "unit": "PCS",
+            "category": "Automotive",
+            "category_method": "text",
+            "hs_code": "401110",
+            "confidence": 0.93
+          }
+        ],
+        "prefers": [],
+        "excludes": [],
+        "certifications": [
+          "IATF 16949"
+        ],
+        "notes": []
+      },
+      "relaxed": [],
+      "candidate_count": 5,
+      "recommendations": [
+        {
+          "rank": 1,
+          "entity_id": "ENT-03751",
+          "name": "Al Rawda International Trading LLC",
+          "activity_class": "trader",
+          "score": 85,
+          "export_value_usd": 1767118,
+          "explanation": "Exported HS 401110 to South Africa 3 times in the 12 months before this request. Discharged at Durban on 3 of those bills. Holds IATF 16949."
+        },
+        {
+          "rank": 2,
+          "entity_id": "ENT-03942",
+          "name": "PT Mitra Usaha Ban",
+          "activity_class": "manufacturer",
+          "score": 75,
+          "export_value_usd": 2823388,
+          "explanation": "Exported HS 401110 to South Africa 2 times in the 12 months before this request. Discharged at Durban on 1 of those bills. Holds IATF 16949."
+        },
+        {
+          "rank": 3,
+          "entity_id": "ENT-02445",
+          "name": "Yiwu Henghai Tyre Co., Ltd.",
+          "activity_class": "manufacturer",
+          "score": 57,
+          "export_value_usd": 238928,
+          "explanation": "Exported HS 401110 to South Africa once in the 12 months before this request. Discharged at Durban on 1 of those bills. Holds IATF 16949."
+        },
+        {
+          "rank": 4,
+          "entity_id": "ENT-03536",
+          "name": "Al Shehri Tyres Co.",
+          "activity_class": "mixed",
+          "score": 45,
+          "export_value_usd": 749464,
+          "explanation": "Exported HS 401110 to South Africa once. Discharged at Durban on 1 of those bills. Holds IATF 16949."
+        },
+        {
+          "rank": 5,
+          "entity_id": "ENT-01385",
+          "name": "Guangzhou Taiyuan Brake System Co., Ltd.",
+          "activity_class": "manufacturer",
+          "score": 43,
+          "export_value_usd": 216330,
+          "explanation": "Exported HS 401110 to South Africa once. Discharged at Durban on 1 of those bills. Holds IATF 16949."
+        }
+      ]
+    },
+    {
+      "rfq_id": "RFQ-0399",
+      "buyer": "Al Nasr International S.A.E.",
+      "status": "expired",
+      "parsed": {
+        "product_phrase": "disc brake rotors",
+        "quantity": 47690.0,
+        "incoterm": "CIF",
+        "target_price_usd": null,
+        "destination": "El Dekheila",
+        "port": "El Dekheila",
+        "country": "Egypt",
+        "products": [
+          {
+            "phrase": "disc brake rotors",
+            "quantity": 47690.0,
+            "unit": "KG",
+            "category": "Automotive",
+            "category_method": "text",
+            "hs_code": "870830",
+            "confidence": 0.93
+          }
+        ],
+        "prefers": [],
+        "excludes": [],
+        "certifications": [],
+        "notes": []
+      },
+      "relaxed": [],
+      "candidate_count": 9,
+      "recommendations": [
+        {
+          "rank": 1,
+          "entity_id": "ENT-00344",
+          "name": "Tianjin Yishun Auto Parts Co., Ltd.",
+          "activity_class": "manufacturer",
+          "score": 139,
+          "export_value_usd": 3658855,
+          "explanation": "Exported HS 870830 to Egypt 6 times in the 12 months before this request. Discharged at El Dekheila on 1 of those bills."
+        },
+        {
+          "rank": 2,
+          "entity_id": "ENT-02853",
+          "name": "YIWU LONGJIA AUTO PARTS CO., LTD.",
+          "activity_class": "manufacturer",
+          "score": 45,
+          "export_value_usd": 545887,
+          "explanation": "Exported HS 870830 to Egypt 2 times in the 12 months before this request."
+        },
+        {
+          "rank": 3,
+          "entity_id": "ENT-04178",
+          "name": "Deccan Auto Components International",
+          "activity_class": "manufacturer",
+          "score": 37,
+          "export_value_usd": 170277,
+          "explanation": "Exported HS 870830 to Egypt 2 times in the 12 months before this request."
+        },
+        {
+          "rank": 4,
+          "entity_id": "ENT-03485",
+          "name": "Al Noor Commodities Trading LLC",
+          "activity_class": "mixed",
+          "score": 32,
+          "export_value_usd": 630869,
+          "explanation": "Exported HS 870830 to Egypt once in the 12 months before this request."
+        },
+        {
+          "rank": 5,
+          "entity_id": "ENT-00273",
+          "name": "Bintang Imports Sdn Bhd",
+          "activity_class": "mixed",
+          "score": 29,
+          "export_value_usd": 458859,
+          "explanation": "Exported HS 870830 to Egypt once in the 12 months before this request."
+        },
+        {
+          "rank": 6,
+          "entity_id": "ENT-03119",
+          "name": "Tianjin Tianfeng Auto Parts Co., Ltd.",
+          "activity_class": "manufacturer",
+          "score": 19,
+          "export_value_usd": 266501,
+          "explanation": "Exported HS 870830 to Egypt 2 times."
+        },
+        {
+          "rank": 7,
+          "entity_id": "ENT-02848",
+          "name": "Guangzhou Bosheng Brake System Co., Ltd.",
+          "activity_class": "manufacturer",
+          "score": 16,
+          "export_value_usd": 855770,
+          "explanation": "Exported HS 870830 to Egypt once."
+        },
+        {
+          "rank": 8,
+          "entity_id": "ENT-02953",
+          "name": "Jai Balaji Auto Parts Impex Pvt Ltd",
+          "activity_class": "manufacturer",
+          "score": 16,
+          "export_value_usd": 512033,
+          "explanation": "Exported HS 870830 to Egypt once. Discharged at El Dekheila on 1 of those bills."
+        },
+        {
+          "rank": 9,
+          "entity_id": "ENT-01984",
+          "name": "Malabar Auto Parts Exim Pvt Ltd",
+          "activity_class": "manufacturer",
+          "score": 13,
+          "export_value_usd": 88814,
+          "explanation": "Exported HS 870830 to Egypt once. Discharged at El Dekheila on 1 of those bills."
+        }
+      ]
+    }
+  ]
+}

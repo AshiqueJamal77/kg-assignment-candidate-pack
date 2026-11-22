@@ -1,0 +1,430 @@
+{
+  "parameters": {
+    "a": {
+      "buyer_id": "ENT-01800",
+      "hs_code": "870899",
+      "exclude_origin": "CN",
+      "buyer_name": "Lakeshore Motors Inc.",
+      "hs_description": "Parts and accessories of motor vehicles, other",
+      "origin_name": "China"
+    },
+    "b": {
+      "category": "Agriculture & Food"
+    },
+    "d": {
+      "company_id": "ENT-00293",
+      "min_bills": 10,
+      "company_name": "Qingdao Mingyi Brake System Co., Ltd."
+    }
+  },
+  "runtime_ms": {
+    "a": 8,
+    "b": 31,
+    "c": 211,
+    "d": 175
+  },
+  "counts": {
+    "a": 44,
+    "b": 755,
+    "b_on_platform": 141,
+    "b_off_platform": 614,
+    "c": 1763,
+    "c_on_platform": 630,
+    "c_off_platform": 1133
+  },
+  "sample": {
+    "a": [
+      {
+        "entity_id": "ENT-00520",
+        "supplier": "Cape Point Trading (Pty) Ltd",
+        "activity": "mixed",
+        "bills": 31,
+        "export_value_usd": 3190349,
+        "origins": [
+          "DE",
+          "ZA"
+        ]
+      },
+      {
+        "entity_id": "ENT-00553",
+        "supplier": "Northstar Motors LLC",
+        "activity": "mixed",
+        "bills": 27,
+        "export_value_usd": 2256447,
+        "origins": [
+          "AE",
+          "TR",
+          "US"
+        ]
+      },
+      {
+        "entity_id": "ENT-01231",
+        "supplier": "Marmara Otomotiv San. ve Tic. A.\u015e.",
+        "activity": "manufacturer",
+        "bills": 23,
+        "export_value_usd": 2411950,
+        "origins": [
+          "TR"
+        ]
+      },
+      {
+        "entity_id": "ENT-01214",
+        "supplier": "Malabar Auto Parts Pvt Ltd",
+        "activity": "manufacturer",
+        "bills": 15,
+        "export_value_usd": 1204915,
+        "origins": [
+          "IN"
+        ]
+      },
+      {
+        "entity_id": "ENT-02010",
+        "supplier": "Shree Mahalaxmi Automotive Pvt Ltd",
+        "activity": "manufacturer",
+        "bills": 14,
+        "export_value_usd": 1066846,
+        "origins": [
+          "IN"
+        ]
+      },
+      {
+        "entity_id": "ENT-02336",
+        "supplier": "Lanka Star Commodities Trading (Pvt) Ltd",
+        "activity": "mixed",
+        "bills": 13,
+        "export_value_usd": 1479819,
+        "origins": [
+          "AE",
+          "DE",
+          "IN",
+          "LK"
+        ]
+      },
+      {
+        "entity_id": "ENT-03993",
+        "supplier": "Jai Shiv Shakti Auto Parts Exim",
+        "activity": "manufacturer",
+        "bills": 13,
+        "export_value_usd": 1377656,
+        "origins": [
+          "IN"
+        ]
+      },
+      {
+        "entity_id": "ENT-03115",
+        "supplier": "Deccan Auto Parts Impex Pvt Ltd",
+        "activity": "manufacturer",
+        "bills": 13,
+        "export_value_usd": 1230728,
+        "origins": [
+          "IN"
+        ]
+      },
+      {
+        "entity_id": "ENT-01739",
+        "supplier": "Al Waha International Trading LLC",
+        "activity": "trader",
+        "bills": 12,
+        "export_value_usd": 735481,
+        "origins": [
+          "AE",
+          "IN",
+          "ZA"
+        ]
+      },
+      {
+        "entity_id": "ENT-00040",
+        "supplier": "Cahaya Trading Sdn Bhd",
+        "activity": "trader",
+        "bills": 11,
+        "export_value_usd": 1193027,
+        "origins": [
+          "AE",
+          "GB",
+          "MY"
+        ]
+      }
+    ],
+    "b": [
+      {
+        "entity_id": "ENT-03247",
+        "buyer_name": "Al Ghamdi Provisions Est.",
+        "on_platform": true,
+        "bills": 42,
+        "import_value_usd": 76273146
+      },
+      {
+        "entity_id": "ENT-03833",
+        "buyer_name": "Shanghai Longbo Food Import & Export Co., Ltd.",
+        "on_platform": true,
+        "bills": 8,
+        "import_value_usd": 41887347
+      },
+      {
+        "entity_id": "ENT-02349",
+        "buyer_name": "Al Shehri Foodstuff Co.",
+        "on_platform": true,
+        "bills": 30,
+        "import_value_usd": 41750401
+      },
+      {
+        "entity_id": "ENT-01338",
+        "buyer_name": "Cleopatra Food Distributors for Import & Export",
+        "on_platform": true,
+        "bills": 14,
+        "import_value_usd": 40494245
+      },
+      {
+        "entity_id": "ENT-01424",
+        "buyer_name": "Xiamen Shunlong Import & Export Co., Ltd.",
+        "on_platform": true,
+        "bills": 10,
+        "import_value_usd": 37059918
+      },
+      {
+        "entity_id": "ENT-04192",
+        "buyer_name": "Kilima Supplies Ltd",
+        "on_platform": true,
+        "bills": 19,
+        "import_value_usd": 32710885
+      },
+      {
+        "entity_id": "ENT-03224",
+        "buyer_name": "Rupsha Food Distributors Ltd.",
+        "on_platform": true,
+        "bills": 7,
+        "import_value_usd": 32309443
+      },
+      {
+        "entity_id": "ENT-01503",
+        "buyer_name": "Red Sea Line Imports Co.",
+        "on_platform": true,
+        "bills": 24,
+        "import_value_usd": 29456058
+      },
+      {
+        "entity_id": "ENT-04039",
+        "buyer_name": "Pharaoh Supplies S.A.E.",
+        "on_platform": true,
+        "bills": 5,
+        "import_value_usd": 26026725
+      },
+      {
+        "entity_id": "ENT-03604",
+        "buyer_name": "Springbok Group (Pty) Ltd",
+        "on_platform": true,
+        "bills": 33,
+        "import_value_usd": 20676829
+      }
+    ],
+    "c": [
+      {
+        "entity_id": "ENT-03819",
+        "seller": "Martins A\u00e7\u00facar Ltda.",
+        "on_platform": true,
+        "activity": "manufacturer",
+        "top_buyer": "Silver Sands Commodities Trading FZE",
+        "top_buyer_id": "ENT-02077",
+        "buyer_on_platform": true,
+        "share_pct": 65.4,
+        "export_value_usd": 190424070,
+        "top_buyer_bills": 24,
+        "bills": 110,
+        "buyers": 8
+      },
+      {
+        "entity_id": "ENT-03990",
+        "seller": "Cape Point Wholesale (Pty) Ltd",
+        "on_platform": true,
+        "activity": "trader",
+        "top_buyer": "Dune Line Plastics LLC",
+        "top_buyer_id": "ENT-01348",
+        "buyer_on_platform": true,
+        "share_pct": 61.0,
+        "export_value_usd": 122477457,
+        "top_buyer_bills": 12,
+        "bills": 45,
+        "buyers": 5
+      },
+      {
+        "entity_id": "ENT-01959",
+        "seller": "PT Abadi Sentosa Plastik",
+        "on_platform": true,
+        "activity": "manufacturer",
+        "top_buyer": "Martins Com\u00e9rcio Exterior Importadora Ltda.",
+        "top_buyer_id": "ENT-00042",
+        "buyer_on_platform": true,
+        "share_pct": 81.7,
+        "export_value_usd": 108805171,
+        "top_buyer_bills": 12,
+        "bills": 16,
+        "buyers": 4
+      },
+      {
+        "entity_id": "ENT-00270",
+        "seller": "Oliveira Alimentos Ltda.",
+        "on_platform": true,
+        "activity": "manufacturer",
+        "top_buyer": "Al Ghamdi Provisions Est.",
+        "top_buyer_id": "ENT-03247",
+        "buyer_on_platform": true,
+        "share_pct": 76.0,
+        "export_value_usd": 67340983,
+        "top_buyer_bills": 6,
+        "bills": 9,
+        "buyers": 4
+      },
+      {
+        "entity_id": "ENT-01207",
+        "seller": "Shenzhen Xiangming Plastic Products Co., Ltd.",
+        "on_platform": true,
+        "activity": "manufacturer",
+        "top_buyer": "ATLANTIC INTERNATIONAL INC",
+        "top_buyer_id": "ENT-07680",
+        "buyer_on_platform": false,
+        "share_pct": 89.3,
+        "export_value_usd": 66199053,
+        "top_buyer_bills": 12,
+        "bills": 14,
+        "buyers": 3
+      },
+      {
+        "entity_id": "ENT-03971",
+        "seller": "Amani International Trading Ltd",
+        "on_platform": true,
+        "activity": "mixed",
+        "top_buyer": "RODRIGUES IMPORTADORA LTDA",
+        "top_buyer_id": "ENT-04665",
+        "buyer_on_platform": false,
+        "share_pct": 85.1,
+        "export_value_usd": 64874695,
+        "top_buyer_bills": 7,
+        "bills": 15,
+        "buyers": 6
+      },
+      {
+        "entity_id": "ENT-01066",
+        "seller": "Shanghai Dabo Plastic Products Co., Ltd.",
+        "on_platform": true,
+        "activity": "manufacturer",
+        "top_buyer": "MAA LAKSHMI COSMETICS PVT LTD",
+        "top_buyer_id": "ENT-06454",
+        "buyer_on_platform": false,
+        "share_pct": 73.9,
+        "export_value_usd": 63482231,
+        "top_buyer_bills": 7,
+        "bills": 23,
+        "buyers": 5
+      },
+      {
+        "entity_id": "ENT-04018",
+        "seller": "Shenzhen Anbo Chemical Co., Ltd.",
+        "on_platform": true,
+        "activity": "manufacturer",
+        "top_buyer": "Golden Chemicals Pvt Ltd",
+        "top_buyer_id": "ENT-04042",
+        "buyer_on_platform": true,
+        "share_pct": 74.8,
+        "export_value_usd": 55420994,
+        "top_buyer_bills": 4,
+        "bills": 16,
+        "buyers": 3
+      },
+      {
+        "entity_id": "ENT-04490",
+        "seller": "PEARL COAST COMMODITIES TRADING FZE",
+        "on_platform": false,
+        "activity": "unknown",
+        "top_buyer": "MINH PHAT TRADING JOINT STOCK COMPANY",
+        "top_buyer_id": "ENT-08124",
+        "buyer_on_platform": false,
+        "share_pct": 71.6,
+        "export_value_usd": 53668466,
+        "top_buyer_bills": 4,
+        "bills": 24,
+        "buyers": 9
+      },
+      {
+        "entity_id": "ENT-06641",
+        "seller": "PRIME AGRI FOODS PVT LTD",
+        "on_platform": false,
+        "activity": "unknown",
+        "top_buyer": "NAJD GROUP EST",
+        "top_buyer_id": "ENT-07465",
+        "buyer_on_platform": false,
+        "share_pct": 72.1,
+        "export_value_usd": 47976899,
+        "top_buyer_bills": 6,
+        "bills": 13,
+        "buyers": 6
+      }
+    ],
+    "d": [
+      {
+        "entity_id": "ENT-04945",
+        "company": "MIGYI BRAKE SYSTEM CO LTD",
+        "on_platform": false,
+        "activity": "unknown",
+        "classified_bills": 12,
+        "cosine": 0.92,
+        "shared_lanes": [
+          "870899|CN|AE",
+          "870899|CN|SA",
+          "870899|CN|US",
+          "870899|CN|ZA"
+        ]
+      },
+      {
+        "entity_id": "ENT-05270",
+        "company": "TIANJIN RUIJIN BRAKE SYSTEM CO LTD",
+        "on_platform": false,
+        "activity": "unknown",
+        "classified_bills": 11,
+        "cosine": 0.823,
+        "shared_lanes": [
+          "870899|CN|AE",
+          "870899|CN|SA",
+          "870899|CN|ZA"
+        ]
+      },
+      {
+        "entity_id": "ENT-04804",
+        "company": "GUANGZHOU MINGFU BRAKE SYSTEM CO LTD",
+        "on_platform": false,
+        "activity": "unknown",
+        "classified_bills": 11,
+        "cosine": 0.773,
+        "shared_lanes": [
+          "870899|CN|AE",
+          "870899|CN|US",
+          "870899|CN|ZA"
+        ]
+      },
+      {
+        "entity_id": "ENT-01033",
+        "company": "Shenzhen Hongyuan Brake System Co., Ltd.",
+        "on_platform": true,
+        "activity": "manufacturer",
+        "classified_bills": 18,
+        "cosine": 0.688,
+        "shared_lanes": [
+          "870899|CN|AE",
+          "870899|CN|US"
+        ]
+      },
+      {
+        "entity_id": "ENT-01525",
+        "company": "Tianjin Yuanjin Brake System Co., Ltd.",
+        "on_platform": true,
+        "activity": "manufacturer",
+        "classified_bills": 32,
+        "cosine": 0.648,
+        "shared_lanes": [
+          "870899|CN|AE",
+          "870899|CN|US",
+          "870899|CN|ZA"
+        ]
+      }
+    ]
+  }
+}
